@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    background: #fff0f6; /* Light pink background */
+}
+
+aside {
+    width: 260px;
+    background-color: #f8bbd0; /* Soft pink */
+    color: #4a148c; /* Deep purple text */
+    padding: 20px;
+    box-sizing: border-box;
+    animation: slideInLeft 0.5s ease-out;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.05);
+}
+
+aside h1 {
+    font-size: 1.6em;
+    margin-bottom: 20px;
+    color: #880e4f; /* Rich pink-purple */
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+
+aside li {
+    margin: 10px 0;
+    animation: fadeIn 0.6s ease-in;
+}
+
+aside a {
+    color: #6a1b9a;
+    text-decoration: none;
+    transition: color 0.3s, padding-left 0.3s;
+}
+
+aside a:hover {
+    color: #ad1457;
+    padding-left: 8px;
+}
+
+#dbForm button {
+    padding: 10px;
+    background-color: #ce93d8; /* Light purple */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    width: 100%;
+    font-weight: bold;
+}
+
+#dbForm button:hover {
+    background-color: #ba68c8; /* Slightly deeper purple */
+}
+
+.databaseContent {
+    flex: 1;
+    padding: 40px;
+    overflow-y: auto;
+    animation: fadeIn 0.5s ease-in;
+    background: #fce4ec;
+}
+
+.databaseContent h2 {
+    margin-top: 0;
+    color: #6a1b9a;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    animation: fadeInUp 0.6s ease-out;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+thead {
+    background-color: #f48fb1; /* Light pink header */
+    color: white;
+}
+
+tbody tr:hover {
+    background-color: #fce4ec;
+}
+
+a[href^="/drop"] {
+    color: #d81b60; /* Pinkish red */
+    text-decoration: none;
+}
+
+a[href^="/drop"]:hover {
+    text-decoration: underline;
+}
+
+/* Animations */
+@keyframes slideInLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

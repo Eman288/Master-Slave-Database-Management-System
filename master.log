@@ -1,0 +1,2625 @@
+2025/05/05 15:41:12 Checked/Created database eman
+2025/05/05 15:41:57 Checked/Created table 'customers'
+2025/05/05 15:41:57 Started Master at 2025-05-05 15:41:57.9587967 +0300 EEST m=+83.218505201
+2025/05/05 16:05:14 Checked/Created database batman
+2025/05/05 16:06:13 4572726f72203130363420283432303030293a20596f75206861766520616e206572726f7220696e20796f75722053514c2073796e7461783b20636865636b20746865206d616e75616c207468617420636f72726573706f6e647320746f20796f7572204d7953514c207365727665722076657273696f6e20666f72207468652072696768742073796e74617820746f20757365206e65617220272927206174206c696e652031
+2025/05/05 16:06:13 Checked/Created table 'employee'
+2025/05/05 16:06:32 Started Master at 2025-05-05 16:06:32.4709663 +0300 EEST m=+93.846945701
+2025/05/05 16:10:12 Checked/Created database batman
+2025/05/05 16:10:52 Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2025/05/05 16:10:52 Checked/Created table 'employee'
+2025/05/05 15:54:28 Checked/Created database batman
+2025/05/05 15:54:51 Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2025/05/05 15:54:51 Checked/Created table 'employee'
+2025/05/05 15:54:54 Started Master at 2025-05-05 15:54:54.3877586 +0300 EEST m=+37.063143101
+2025/05/05 15:55:35 Checked/Created database batman
+2025/05/05 15:55:58 Error 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+2025/05/05 15:55:58 Checked/Created table 'eman'
+2025/05/05 15:56:49 Checked/Created table 'eman'
+2025/05/05 15:56:53 Started Master at 2025-05-05 15:56:53.3397438 +0300 EEST m=+87.394777501
+2025/05/06 13:32:58 Checked/Created database afterFix
+2025/05/06 13:33:38 Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'varstring(34),age int)' at line 1
+2025/05/06 13:33:38 Checked/Created table 'eman'
+2025/05/06 13:33:52 Started Master at 2025-05-06 13:33:52.3302303 +0300 EEST m=+76.133331601
+2025/05/06 14:47:53 Server started on http://localhost:8080
+2025/05/06 14:48:46 Login successful
+2025/05/06 14:49:45 Checked/Created database Rania
+2025/05/06 14:50:43 Started Master at 2025-05-06 14:50:43.5883216 +0300 EEST m=+170.138270201
+2025/05/06 14:56:22 Server started on http://localhost:8080
+2025/05/06 14:56:47 Login successful
+2025/05/06 14:56:54 Checked/Created database Rania
+2025/05/06 14:56:56 Started Master at 2025-05-06 14:56:56.2317058 +0300 EEST m=+33.497806201
+2025/05/06 15:42:52 Server started on http://localhost:8080
+2025/05/06 15:43:43 Login successful
+2025/05/06 15:48:50 Server started on http://localhost:8080
+2025/05/06 15:49:15 Login successful
+2025/05/06 15:49:15 Template execution error: html/template: "home.html" is undefined
+2025/05/08 16:58:44 Server started on http://localhost:8080
+2025/05/08 16:59:16 Login successful
+2025/05/08 16:59:16 Error creating database:Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025/05/08 17:00:58 Server started on http://localhost:8080
+2025/05/08 17:02:10 Login successful
+2025/05/08 17:02:10 Error creating database:Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025/05/08 17:04:25 Server started on http://localhost:8080
+2025/05/08 17:05:03 Login successful
+2025/05/08 17:05:03 Template execution error: html/template: "home.html" is undefined
+2025/05/08 17:05:23 Checked/Created database batman
+2025/05/08 17:05:26 Started Master at 2025-05-08 17:05:26.5300654 +0300 EEST m=+61.197968101
+2025/05/08 17:05:32 Template execution error: html/template: "home.html" is undefined
+2025/05/08 17:05:40 Template execution error: html/template: "home.html" is undefined
+2025/05/08 17:05:59 Template execution error: html/template: "home.html" is undefined
+2025/05/08 17:06:41 Server started on http://localhost:8080
+2025/05/08 17:06:58 Login successful
+2025/05/08 17:06:58 Template execution error: html/template: "home.html" is undefined
+2025/05/08 17:07:12 Checked/Created database batman
+2025/05/08 17:07:14 Started Master at 2025-05-08 17:07:14.4821647 +0300 EEST m=+33.140069801
+2025/05/08 17:07:17 Template execution error: html/template: "home.html" is undefined
+2025/05/08 17:12:14 Server started on http://localhost:8080
+2025/05/08 17:12:33 Login successful
+2025/05/08 17:12:42 Checked/Created database nw
+2025/05/08 17:12:44 Started Master at 2025-05-08 17:12:44.5734306 +0300 EEST m=+30.290732501
+2025/05/08 17:28:58 Server started on http://localhost:8080
+2025/05/08 17:29:23 Login successful
+2025/05/08 17:29:23 DB select error:Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025/05/08 17:34:10 Server started on http://localhost:8080
+2025/05/08 17:34:26 Login successful
+2025/05/08 17:34:26 DB select error:Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025/05/10 12:27:37 Server started on http://localhost:8080
+2025/05/10 12:28:29 Login successful
+2025/05/10 12:28:29 DB select error:Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025/05/10 12:28:56 Server started on http://localhost:8080
+2025/05/10 12:29:12 Login successful
+2025/05/10 12:29:12 DB select error:Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025/05/10 12:36:26 Database ping failed: Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025/05/10 12:36:44 Login successful
+2025/05/10 12:36:49 Started Master at 2025-05-10 12:36:49.856359 +0300 EEST m=+47.811546001
+2025/05/10 12:39:10 Login successful
+2025/05/10 12:40:31 Login successful
+2025/05/10 12:40:34 Started Master at 2025-05-10 12:40:34.1472294 +0300 EEST m=+22.458450701
+2025/05/10 12:49:19 Login successful
+2025/05/10 12:49:23 Started Master at 2025-05-10 12:49:23.2211451 +0300 EEST m=+56.695063001
+2025/05/10 12:55:21 Login successful
+2025/05/10 12:55:26 Started Master at 2025-05-10 12:55:26.003863 +0300 EEST m=+23.735770801
+2025/05/10 12:55:38 Received dbName: mmm
+2025/05/10 12:55:38 Created database: mmm
+2025/05/10 13:24:58 Login successful
+2025/05/10 13:24:58 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:24:58 http: superfluous response.WriteHeader call from main.home (master.go:118)
+2025/05/10 13:25:06 Started Master at 2025-05-10 13:25:06.2453849 +0300 EEST m=+32.208887801
+2025/05/10 13:25:16 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:25:16 http: superfluous response.WriteHeader call from main.home (master.go:118)
+2025/05/10 13:35:42 Database ping failed: Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025/05/10 13:36:01 Login successful
+2025/05/10 13:36:01 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:36:01 http: superfluous response.WriteHeader call from main.home (master.go:124)
+2025/05/10 13:36:10 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:36:10 http: superfluous response.WriteHeader call from main.home (master.go:124)
+2025/05/10 13:40:08 Login successful
+2025/05/10 13:40:08 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:40:08 http: superfluous response.WriteHeader call from main.home (master.go:124)
+2025/05/10 13:40:11 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:40:11 http: superfluous response.WriteHeader call from main.home (master.go:124)
+2025/05/10 13:40:27 Started Master at 2025-05-10 13:40:27.498611 +0300 EEST m=+51.325562001
+2025/05/10 13:40:31 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:40:31 http: superfluous response.WriteHeader call from main.home (master.go:124)
+2025/05/10 13:46:03 Login successful
+2025/05/10 13:46:03 Template execution error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:46:03 http: superfluous response.WriteHeader call from main.home (master.go:124)
+2025/05/10 13:53:41 Started Master at 2025-05-10 13:53:41.912607 +0300 EEST m=+487.959324601
+2025/05/10 13:54:55 Login successful
+2025/05/10 13:54:55 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 13:54:55 Template error: template: home.html:16:20: executing "home.html" at <.databases>: databases is an unexported field of struct type main.homeData
+2025/05/10 13:59:09 Login successful
+2025/05/10 14:00:19 Received dbName: kh
+2025/05/10 14:00:19 Created database: kh
+2025/05/10 14:00:32 Started Master at 2025-05-10 14:00:32.4061276 +0300 EEST m=+101.929391001
+2025/05/10 14:10:25 Login successful
+2025/05/10 14:10:48 Started Master at 2025-05-10 14:10:48.3564676 +0300 EEST m=+57.462637101
+2025/05/10 14:13:40 Login successful
+2025/05/10 14:18:49 Started Master at 2025-05-10 14:18:49.2979773 +0300 EEST m=+328.923545601
+2025/05/10 14:23:41 Login successful
+2025/05/10 14:23:52 Started Master at 2025-05-10 14:23:52.0931931 +0300 EEST m=+72.856576601
+2025/05/10 14:26:17 Login successful
+2025/05/10 14:26:22 Started Master at 2025-05-10 14:26:22.5837768 +0300 EEST m=+33.426505801
+2025/05/10 14:26:25 userDb is called
+2025/05/10 14:26:25 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:26:25 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:26:32 userDb is called
+2025/05/10 14:26:36 userDb is called
+2025/05/10 14:26:36 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:26:36 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:26:44 userDb is called
+2025/05/10 14:26:44 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:26:44 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:26:49 userDb is called
+2025/05/10 14:26:49 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:26:49 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:26:53 userDb is called
+2025/05/10 14:26:58 userDb is called
+2025/05/10 14:27:03 userDb is called
+2025/05/10 14:27:03 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:27:03 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:27:12 userDb is called
+2025/05/10 14:27:16 userDb is called
+2025/05/10 14:27:16 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:27:16 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:27:41 http: superfluous response.WriteHeader call from main.home (master.go:120)
+2025/05/10 14:27:41 Template error: template: home.html:33:38: executing "home.html" at <.tables>: can't evaluate field tables in type main.HomePageData
+2025/05/10 14:28:54 Login successful
+2025/05/10 14:29:00 userDb is called
+2025/05/10 14:29:14 userDb is called
+2025/05/10 14:34:57 Login successful
+2025/05/10 14:35:17 userDb is called
+2025/05/10 14:38:54 Received dbName: pink
+2025/05/10 14:38:54 Created database: pink
+2025/05/10 14:40:27 Started Master at 2025-05-10 14:40:27.7236683 +0300 EEST m=+365.948163301
+2025/05/10 14:44:03 Login successful
+2025/05/10 14:44:09 userDb is called
+2025/05/10 14:44:17 userDb is called
+2025/05/10 14:44:27 userDb is called
+2025/05/10 14:44:33 userDb is called
+2025/05/10 14:44:50 Started Master at 2025-05-10 14:44:50.7516108 +0300 EEST m=+106.168383501
+2025/05/10 16:52:01 http: panic serving [::1]:58123: runtime error: invalid memory address or nil pointer dereference
+goroutine 19 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c04cc?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc00003b970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000196460}, 0xc00003bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000196460?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000196460}, 0xc0000d0a00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0001824e0?}, {0xc78f00?, 0xc000196460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0240, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:01 http: panic serving [::1]:58124: runtime error: invalid memory address or nil pointer dereference
+goroutine 21 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c0544?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000196540}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000196540?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000196540}, 0xc0000d03c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0001828a0?}, {0xc78f00?, 0xc000196540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e03f0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:01 http: panic serving [::1]:58126: runtime error: invalid memory address or nil pointer dereference
+goroutine 28 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c058c?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000196620}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000196620?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000196620}, 0xc0000d0b40)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000182d50?}, {0xc78f00?, 0xc000196620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0870, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:02 http: panic serving [::1]:58128: runtime error: invalid memory address or nil pointer dereference
+goroutine 31 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00001a1fc?, 0xc0002238b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc0001a1970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc0000002a0}, 0xc0001a1b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc0000002a0?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc0000002a0}, 0xc0000d0c80)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000182f00?}, {0xc78f00?, 0xc0000002a0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0a20, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:02 http: panic serving [::1]:58127: runtime error: invalid memory address or nil pointer dereference
+goroutine 30 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00001a25c?, 0xc0002238b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000000380}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000000380?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000000380}, 0xc000114140)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0001120f0?}, {0xc78f00?, 0xc000000380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0990, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:02 http: panic serving [::1]:58129: runtime error: invalid memory address or nil pointer dereference
+goroutine 10 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c05d4?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000196700}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000196700?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000196700}, 0xc0000d0dc0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000182f60?}, {0xc78f00?, 0xc000196700?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0002002d0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:07 http: panic serving [::1]:58131: runtime error: invalid memory address or nil pointer dereference
+goroutine 50 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00010c04c?, 0xc00021f8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc00019f970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc00012a0e0}, 0xc00019fb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc00012a0e0?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc00012a0e0}, 0xc0000d1040)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000183170?}, {0xc78f00?, 0xc00012a0e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0bd0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:07 http: panic serving [::1]:58130: runtime error: invalid memory address or nil pointer dereference
+goroutine 33 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00010c0ac?, 0xc00021f8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc00012a1c0}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc00012a1c0?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc00012a1c0}, 0xc0000d0f00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0001830b0?}, {0xc78f00?, 0xc00012a1c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0b40, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:07 http: panic serving [::1]:58132: runtime error: invalid memory address or nil pointer dereference
+goroutine 51 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00010c0f4?, 0xc00021f8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc00019b970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc00012a2a0}, 0xc00019bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc00012a2a0?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc00012a2a0}, 0xc000114280)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000112300?}, {0xc78f00?, 0xc00012a2a0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000e0c60, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:37 http: panic serving [::1]:58136: runtime error: invalid memory address or nil pointer dereference
+goroutine 39 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00010c13c?, 0xc00021f8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc00012a380}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc00012a380?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc00012a380}, 0xc000114500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000112510?}, {0xc78f00?, 0xc00012a380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001182d0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:37 http: panic serving [::1]:58135: runtime error: invalid memory address or nil pointer dereference
+goroutine 38 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00001a2a4?, 0xc0002238b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc00019b970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000000460}, 0xc00019bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000000460?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000000460}, 0xc0001143c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000112450?}, {0xc78f00?, 0xc000000460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000118240, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:52:37 http: panic serving [::1]:58137: runtime error: invalid memory address or nil pointer dereference
+goroutine 41 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00010c184?, 0xc00021f8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc000063970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc00012a460}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc00012a460?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc00012a460}, 0xc000114640)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000112660?}, {0xc78f00?, 0xc00012a460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001183f0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:53:38 http: panic serving [::1]:58145: runtime error: invalid memory address or nil pointer dereference
+goroutine 13 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00010c1cc?, 0xc00021f8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc0001a1970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc00012a540}, 0xc0001a1b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc00012a540?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc00012a540}, 0xc00007e500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000030750?}, {0xc78f00?, 0xc00012a540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000200480, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:53:39 http: panic serving [::1]:58144: runtime error: invalid memory address or nil pointer dereference
+goroutine 12 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00001a2ec?, 0xc0002238b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc00019b970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000000540}, 0xc00019bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000000540?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000000540}, 0xc00007e3c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000030690?}, {0xc78f00?, 0xc000000540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0002003f0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:53:39 http: panic serving [::1]:58146: runtime error: invalid memory address or nil pointer dereference
+goroutine 44 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xb56760?, 0xf73d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xc792a0, 0xfd3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xc792a0, 0xfd3900}, {0xbcfca5, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00001a334?, 0xc0002238b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0000ce3c0?, {0xc792a0?, 0xfd3900?}, {0xbcfca5?, 0xc0001a1970?}, {0x0?, 0xf8d758?, 0xa4de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xc78f00, 0xc000000620}, 0xc0001a1b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xf8d740?, {0xc78f00?, 0xc000000620?}, 0xa448b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x770199?, {0xc78f00, 0xc000000620}, 0xc000114780)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000112840?}, {0xc78f00?, 0xc000000620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001185a0, {0xc79468, 0xc0001823f0})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:18 http: panic serving [::1]:58225: runtime error: invalid memory address or nil pointer dereference
+goroutine 18 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000092004?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc00003b970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac000}, 0xc00003bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac000?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac000}, 0xc000090000)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000030e40?}, {0x888f00?, 0xc0000ac000?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b21b0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:18 http: panic serving [::1]:58226: runtime error: invalid memory address or nil pointer dereference
+goroutine 9 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000920ac?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000063970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac0e0}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac0e0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac0e0}, 0xc0001fa000)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000191830?}, {0x888f00?, 0xc0000ac0e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001321b0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:18 http: panic serving [::1]:58227: runtime error: invalid memory address or nil pointer dereference
+goroutine 20 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00009210c?, 0xc0000f78b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000d9970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac1c0}, 0xc0000d9b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac1c0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac1c0}, 0xc000090140)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008e180?}, {0x888f00?, 0xc0000ac1c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b23f0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:19 http: panic serving [::1]:58229: runtime error: invalid memory address or nil pointer dereference
+goroutine 38 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00009216c?, 0xc0000f78b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000057970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac2a0}, 0xc000057b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac2a0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac2a0}, 0xc0000903c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008e390?}, {0x888f00?, 0xc0000ac2a0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094240, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:19 http: panic serving [::1]:58228: runtime error: invalid memory address or nil pointer dereference
+goroutine 37 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c2d4?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000d9970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0002020e0}, 0xc0000d9b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0002020e0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0002020e0}, 0xc000090280)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008e2d0?}, {0x888f00?, 0xc0002020e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000941b0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:19 http: panic serving [::1]:58230: runtime error: invalid memory address or nil pointer dereference
+goroutine 40 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000921cc?, 0xc0000f78b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000057970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac380}, 0xc000057b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac380?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac380}, 0xc000090500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008e4e0?}, {0x888f00?, 0xc0000ac380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094360, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:26 http: panic serving [::1]:58231: runtime error: invalid memory address or nil pointer dereference
+goroutine 42 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c37c?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc00003b970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0002022a0}, 0xc00003bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0002022a0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0002022a0}, 0xc0001fa500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000191b00?}, {0x888f00?, 0xc0002022a0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094480, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:26 http: panic serving [::1]:58232: runtime error: invalid memory address or nil pointer dereference
+goroutine 23 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c3dc?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000dd970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202380}, 0xc0000ddb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202380?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202380}, 0xc0001fa3c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000191c80?}, {0x888f00?, 0xc000202380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b25a0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:26 http: panic serving [::1]:58233: runtime error: invalid memory address or nil pointer dereference
+goroutine 26 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c43c?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000dd970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202460}, 0xc0000ddb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202460?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202460}, 0xc000122640)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000031320?}, {0x888f00?, 0xc000202460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b2750, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:27 http: panic serving [::1]:58235: runtime error: invalid memory address or nil pointer dereference
+goroutine 29 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00009222c?, 0xc0000f78b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000db970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac460}, 0xc0000dbb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac460?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac460}, 0xc0001fa780)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00024c060?}, {0x888f00?, 0xc0000ac460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b2900, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:27 http: panic serving [::1]:58234: runtime error: invalid memory address or nil pointer dereference
+goroutine 28 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c49c?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000dd970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202540}, 0xc0000ddb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202540?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202540}, 0xc0001fa640)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000191f20?}, {0x888f00?, 0xc000202540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b2870, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:27 http: panic serving [::1]:58236: runtime error: invalid memory address or nil pointer dereference
+goroutine 11 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00009228c?, 0xc0000f78b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000147970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac540}, 0xc000147b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac540?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac540}, 0xc0001fa8c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00024c150?}, {0x888f00?, 0xc0000ac540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000132360, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:32 http: panic serving [::1]:58238: runtime error: invalid memory address or nil pointer dereference
+goroutine 46 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c4fc?, 0xc0000f38b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000db970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202620}, 0xc0000dbb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202620?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202620}, 0xc000090780)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008e8d0?}, {0x888f00?, 0xc000202620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000946c0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:32 http: panic serving [::1]:58237: runtime error: invalid memory address or nil pointer dereference
+goroutine 45 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000922ec?, 0xc0000f78b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000147970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac620}, 0xc000147b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac620?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac620}, 0xc000090640)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008e810?}, {0x888f00?, 0xc0000ac620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094630, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:33 http: panic serving [::1]:58239: runtime error: invalid memory address or nil pointer dereference
+goroutine 32 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c55c?, 0xc0000f38b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000db970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202700}, 0xc0000dbb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202700?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202700}, 0xc0001faa00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00024c2a0?}, {0x888f00?, 0xc000202700?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b2ab0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:34 http: panic serving [::1]:58241: runtime error: invalid memory address or nil pointer dereference
+goroutine 48 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00009234c?, 0xc0000f38b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000f3970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac700}, 0xc0000f3b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac700?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac700}, 0xc000090b40)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008ea20?}, {0x888f00?, 0xc0000ac700?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000947e0, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:34 http: panic serving [::1]:58242: runtime error: invalid memory address or nil pointer dereference
+goroutine 49 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c604?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000063970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0002028c0}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0002028c0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0002028c0}, 0xc000090a00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008eae0?}, {0x888f00?, 0xc0002028c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094870, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:34 http: panic serving [::1]:58243: runtime error: invalid memory address or nil pointer dereference
+goroutine 52 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c64c?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000063970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0002029a0}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0002029a0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0002029a0}, 0xc0001fab40)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00024c540?}, {0x888f00?, 0xc0002029a0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b2d80, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:35 http: panic serving [::1]:58245: runtime error: invalid memory address or nil pointer dereference
+goroutine 68 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c694?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000df970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202a80}, 0xc0000dfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202a80?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202a80}, 0xc000090dc0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008ecc0?}, {0x888f00?, 0xc000202a80?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094a20, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:35 http: panic serving [::1]:58244: runtime error: invalid memory address or nil pointer dereference
+goroutine 67 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000092394?, 0xc0000f38b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc000143970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc0000ac7e0}, 0xc000143b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc0000ac7e0?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc0000ac7e0}, 0xc000090c80)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00008ec00?}, {0x888f00?, 0xc0000ac7e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000094990, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 16:58:35 http: panic serving [::1]:58246: runtime error: invalid memory address or nil pointer dereference
+goroutine 55 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x766760?, 0xb83d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0x8892a0, 0xbe3900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0x8892a0, 0xbe3900}, {0x7dfca5, 0xe}, {0x0, 0x0, 0x0}, 0xa0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018c6dc?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001d42d0?, {0x8892a0?, 0xbe3900?}, {0x7dfca5?, 0xc0000df970?}, {0x0?, 0xb9d758?, 0x65de80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0x888f00, 0xc000202b60}, 0xc0000dfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xb9d740?, {0x888f00?, 0xc000202b60?}, 0x6548b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x380199?, {0x888f00, 0xc000202b60}, 0xc0001fac80)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00024c720?}, {0x888f00?, 0xc000202b60?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001b2f30, {0x889468, 0xc000191740})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:28 http: panic serving [::1]:58292: runtime error: invalid memory address or nil pointer dereference
+goroutine 18 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018dbdc?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc00003b970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b21c0}, 0xc00003bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b21c0?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b21c0}, 0xc0001a0500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00014c5d0?}, {0xbe8f00?, 0xc0001b21c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a000, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:28 http: panic serving [::1]:58293: runtime error: invalid memory address or nil pointer dereference
+goroutine 20 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018dc6c?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bf970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b22a0}, 0xc0001bfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b22a0?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b22a0}, 0xc0001a0280)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000192270?}, {0xbe8f00?, 0xc0001b22a0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a240, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:28 http: panic serving [::1]:58294: runtime error: invalid memory address or nil pointer dereference
+goroutine 24 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018dcb4?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bf970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b2380}, 0xc0001bfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b2380?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b2380}, 0xc000122780)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000219e60?}, {0xbe8f00?, 0xc0001b2380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a480, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:29 http: panic serving [::1]:58296: runtime error: invalid memory address or nil pointer dereference
+goroutine 27 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018dcfc?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bb970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b2460}, 0xc0001bbb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b2460?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b2460}, 0xc0001a0780)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00028ee10?}, {0xbe8f00?, 0xc0001b2460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a630, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:29 http: panic serving [::1]:58295: runtime error: invalid memory address or nil pointer dereference
+goroutine 26 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c87cc?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bf970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0000ea0e0}, 0xc0001bfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0000ea0e0?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0000ea0e0}, 0xc0001a0640)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00028ed50?}, {0xbe8f00?, 0xc0000ea0e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a5a0, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:29 http: panic serving [::1]:58297: runtime error: invalid memory address or nil pointer dereference
+goroutine 10 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000203abc?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc000063970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc000000380}, 0xc000063b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc000000380?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc000000380}, 0xc0001228c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000219f20?}, {0xbe8f00?, 0xc000000380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000132480, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:32 http: panic serving [::1]:58298: runtime error: invalid memory address or nil pointer dereference
+goroutine 12 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000203b4c?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc000307970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc000000540}, 0xc000307b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc000000540?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc000000540}, 0xc000122b40)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00022a0f0?}, {0xbe8f00?, 0xc000000540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001325a0, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:32 http: panic serving [::1]:58299: runtime error: invalid memory address or nil pointer dereference
+goroutine 36 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000203b94?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bf970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc000000620}, 0xc0001bfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc000000620?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc000000620}, 0xc0000dc140)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0000da270?}, {0xbe8f00?, 0xc000000620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000de1b0, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:32 http: panic serving [::1]:58300: runtime error: invalid memory address or nil pointer dereference
+goroutine 16 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018dd44?, 0xc00003b8b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bf970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b2540}, 0xc0001bfb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b2540?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b2540}, 0xc0000dc280)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0000da2d0?}, {0xbe8f00?, 0xc0001b2540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000132870, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:33 http: panic serving [::1]:58302: runtime error: invalid memory address or nil pointer dereference
+goroutine 31 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c8814?, 0xc0003038b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bd970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0000ea1c0}, 0xc0001bdb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0000ea1c0?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0000ea1c0}, 0xc0000dc3c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0000da330?}, {0xbe8f00?, 0xc0000ea1c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a870, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:37 http: panic serving [::1]:58301: runtime error: invalid memory address or nil pointer dereference
+goroutine 30 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018dd8c?, 0xc0003038b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc000303970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b2620}, 0xc000303b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b2620?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b2620}, 0xc0001a08c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00022a3f0?}, {0xbe8f00?, 0xc0001b2620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019a7e0, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:37 http: panic serving [::1]:58305: runtime error: invalid memory address or nil pointer dereference
+goroutine 39 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc0000c88a4?, 0xc0003038b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bd970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0000ea380}, 0xc0001bdb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0000ea380?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0000ea380}, 0xc0000dc500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc0000da540?}, {0xbe8f00?, 0xc0000ea380?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000de3f0, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:37 http: panic serving [::1]:58306: runtime error: invalid memory address or nil pointer dereference
+goroutine 41 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc00018ddd4?, 0xc0003038b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bb970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0001b2700}, 0xc0001bbb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0001b2700?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0001b2700}, 0xc0001a0a00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00028f0b0?}, {0xbe8f00?, 0xc0001b2700?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000de510, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:39 http: panic serving [::1]:58308: runtime error: invalid memory address or nil pointer dereference
+goroutine 51 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000203bdc?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc000385970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc000000700}, 0xc000385b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc000000700?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc000000700}, 0xc000122dc0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00022a450?}, {0xbe8f00?, 0xc000000700?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019aab0, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:39 http: panic serving [::1]:58307: runtime error: invalid memory address or nil pointer dereference
+goroutine 50 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000203c24?, 0xc0003078b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc0001bb970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0000007e0}, 0xc0001bbb38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0000007e0?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0000007e0}, 0xc0001a0b40)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00028f200?}, {0xbe8f00?, 0xc0000007e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00019aa20, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:05:39 http: panic serving [::1]:58309: runtime error: invalid memory address or nil pointer dereference
+goroutine 68 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0xac6760?, 0xee3d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*DB).conn(0x0, {0xbe92a0, 0xf43900}, 0x1)
+	C:/Program Files/Go/src/database/sql/sql.go:1317 +0x54
+database/sql.(*DB).query(0x0, {0xbe92a0, 0xf43900}, {0xb3fca3, 0xe}, {0x0, 0x0, 0x0}, 0x90?)
+	C:/Program Files/Go/src/database/sql/sql.go:1759 +0x57
+database/sql.(*DB).QueryContext.func1(0x0?)
+	C:/Program Files/Go/src/database/sql/sql.go:1742 +0x4f
+database/sql.(*DB).retry(0xc000203c6c?, 0xc0004178b8)
+	C:/Program Files/Go/src/database/sql/sql.go:1576 +0x42
+database/sql.(*DB).QueryContext(0xc0001203c0?, {0xbe92a0?, 0xf43900?}, {0xb3fca3?, 0xc000257970?}, {0x0?, 0xefd758?, 0x9bde80?})
+	C:/Program Files/Go/src/database/sql/sql.go:1741 +0xc5
+database/sql.(*DB).Query(...)
+	C:/Program Files/Go/src/database/sql/sql.go:1755
+main.home({0xbe8f00, 0xc0000008c0}, 0xc000257b38?)
+	U:/New folder (5)/newProgeam/New/master.go:71 +0xc8
+net/http.HandlerFunc.ServeHTTP(0xefd740?, {0xbe8f00?, 0xc0000008c0?}, 0x9b48b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x6e0199?, {0xbe8f00, 0xc0000008c0}, 0xc000122f00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00022a630?}, {0xbe8f00?, 0xc0000008c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc000132a20, {0xbe9468, 0xc00014c570})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 17:06:17 Login successful
+2025/05/10 17:06:23 Error: and error while deleting the database <nil>
+2025/05/10 17:06:31 Received dbName: lkjhgfd
+2025/05/10 17:06:31 Created database: lkjhgfd
+2025/05/10 17:06:37 Error: and error while deleting the database <nil>
+2025/05/10 17:07:04 userDb is called
+2025/05/10 17:12:54 Login successful
+2025/05/10 17:12:57 userDb is called
+2025/05/10 17:16:51 Login successful
+2025/05/10 17:17:03 userDb is called
+2025/05/10 17:17:12 Error: and error while deleting the table <nil>
+2025/05/10 18:04:12 Login successful
+2025/05/10 18:04:31 userDb is called
+2025/05/10 18:05:37 Started Master at 2025-05-10 18:05:37.4020461 +0300 EEST m=+121.430448101
+2025/05/10 18:06:03 userDb is called
+2025/05/10 18:06:06 Error: and error while deleting the database <nil>
+2025/05/10 18:09:24 Login successful
+2025/05/10 18:09:33 userDb is called
+2025/05/10 18:09:49 Received tbName: eman2
+2025/05/10 18:09:49 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`eman2()' at line 1
+2025/05/10 18:13:57 Login successful
+2025/05/10 18:14:04 userDb is called
+2025/05/10 18:14:10 Received tbName: eman
+2025/05/10 18:14:10 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`eman(id int)' at line 1
+2025/05/10 18:16:17 Login successful
+2025/05/10 18:16:33 userDb is called
+2025/05/10 18:16:41 Received tbName: eman
+2025/05/10 18:16:41 Created tabke: eman
+2025/05/10 18:41:48 Started Master at 2025-05-10 18:41:48.1783134 +0300 EEST m=+1555.787460501
+2025/05/10 18:57:41 Login successful
+2025/05/10 18:58:24 userDb is called
+2025/05/10 18:58:29 http: superfluous response.WriteHeader call from main.displayTable (master.go:313)
+2025/05/10 18:58:29 Template error: template: table.html:29:35: executing "table.html" at <.colNum>: colNum is an unexported field of struct type main.TableContent
+2025/05/10 19:02:15 Login successful
+2025/05/10 19:02:23 userDb is called
+2025/05/10 19:02:58 userDb is called
+2025/05/10 20:51:00 Login successful
+2025/05/10 20:51:07 userDb is called
+2025/05/10 20:52:05 Received dbName: test
+2025/05/10 20:52:05 Created database: test
+2025/05/10 20:52:09 userDb is called
+2025/05/10 20:52:15 Received tbName: t1
+2025/05/10 20:52:15 Created tabke: t1
+2025/05/10 20:53:41 Started Master at 2025-05-10 20:53:41.5682223 +0300 EEST m=+260.402184701
+2025/05/10 20:54:32 Login successful
+2025/05/10 20:54:38 userDb is called
+2025/05/10 20:55:43 Started Master at 2025-05-10 20:55:43.1271244 +0300 EEST m=+114.005684401
+2025/05/10 21:00:30 Login successful
+2025/05/10 21:00:30 Started Master at 2025-05-10 21:00:30.5556861 +0300 EEST m=+20.224217301
+2025/05/10 21:00:38 userDb is called
+2025/05/10 21:03:39 Login successful
+2025/05/10 21:03:39 Started Master at 2025-05-10 21:03:39.0952351 +0300 EEST m=+78.345478701
+2025/05/10 21:03:43 userDb is called
+2025/05/10 21:03:57 userDb is called
+2025/05/10 21:04:00 http: superfluous response.WriteHeader call from main.displayTable (master.go:322)
+2025/05/10 21:04:00 Template error: template: table.html:38:35: executing "table.html" at <.ColNum>: can't evaluate field ColNum in type main.TableContent
+2025/05/10 21:08:05 Login successful
+2025/05/10 21:08:05 Started Master at 2025-05-10 21:08:05.08863 +0300 EEST m=+140.454198001
+2025/05/10 21:08:09 userDb is called
+2025/05/10 21:10:05 Login successful
+2025/05/10 21:10:05 Started Master at 2025-05-10 21:10:05.4810724 +0300 EEST m=+29.295017301
+2025/05/10 21:10:09 userDb is called
+2025/05/10 21:15:55 Login successful
+2025/05/10 21:15:55 Started Master at 2025-05-10 21:15:55.0256718 +0300 EEST m=+22.092236401
+2025/05/10 21:16:36 userDb is called
+2025/05/10 21:16:53 Table is Empty
+2025/05/10 21:16:53 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:53 http: panic serving [::1]:54825: runtime error: invalid memory address or nil pointer dereference
+goroutine 50 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc0001aa460}, 0xc000237b38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc0001aa460?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc0001aa460}, 0xc0001cc500)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020c6f0?}, {0x84a360?, 0xc0001aa460?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001326c0, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:53 Table is Empty
+2025/05/10 21:16:53 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:53 http: panic serving [::1]:54826: runtime error: invalid memory address or nil pointer dereference
+goroutine 41 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc0001aa540}, 0xc00022fb38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc0001aa540?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc0001aa540}, 0xc000122a00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000153410?}, {0x84a360?, 0xc0001aa540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00018a480, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:53 Table is Empty
+2025/05/10 21:16:53 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:53 http: panic serving [::1]:54828: runtime error: invalid memory address or nil pointer dereference
+goroutine 44 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc0001aa620}, 0xc00022fb38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc0001aa620?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc0001aa620}, 0xc0000fcc80)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020c8d0?}, {0x84a360?, 0xc0001aa620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc00018a6c0, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:54 Table is Empty
+2025/05/10 21:16:54 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:54 http: panic serving [::1]:54829: runtime error: invalid memory address or nil pointer dereference
+goroutine 67 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc000000540}, 0xc0001e1b38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc000000540?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc000000540}, 0xc0000fcdc0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020c990?}, {0x84a360?, 0xc000000540?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000f6990, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:54 Table is Empty
+2025/05/10 21:16:54 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:54 http: panic serving [::1]:54830: runtime error: invalid memory address or nil pointer dereference
+goroutine 68 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc000208620}, 0xc0001e3b38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc000208620?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc000208620}, 0xc0000fcf00)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020ca50?}, {0x84a360?, 0xc000208620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000f6a20, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:54 Table is Empty
+2025/05/10 21:16:54 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:54 http: panic serving [::1]:54831: runtime error: invalid memory address or nil pointer dereference
+goroutine 70 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc000208700}, 0xc000211b38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc000208700?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc000208700}, 0xc0000fd040)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020cbd0?}, {0x84a360?, 0xc000208700?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000f6b40, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:59 Table is Empty
+2025/05/10 21:16:59 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:59 http: panic serving [::1]:54835: runtime error: invalid memory address or nil pointer dereference
+goroutine 73 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc0002087e0}, 0xc00022bb38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc0002087e0?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc0002087e0}, 0xc0000fd2c0)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020ce10?}, {0x84a360?, 0xc0002087e0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000f6cf0, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:59 Table is Empty
+2025/05/10 21:16:59 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:59 http: panic serving [::1]:54834: runtime error: invalid memory address or nil pointer dereference
+goroutine 72 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc0002088c0}, 0xc000211b38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc0002088c0?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc0002088c0}, 0xc0000fd180)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc00020cd50?}, {0x84a360?, 0xc0002088c0?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0000f6c60, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:16:59 Table is Empty
+2025/05/10 21:16:59 Error: an error whilee getting the rows of the table
+2025/05/10 21:16:59 http: panic serving [::1]:54836: runtime error: invalid memory address or nil pointer dereference
+goroutine 52 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0xbe
+panic({0x727820?, 0xb45d00?})
+	C:/Program Files/Go/src/runtime/panic.go:792 +0x132
+database/sql.(*Rows).Columns(0x0)
+	C:/Program Files/Go/src/database/sql/sql.go:3184 +0x4a
+main.displayTable({0x84a360, 0xc000000620}, 0xc0001e1b38?)
+	U:/New folder (5)/newProgeam/New/master.go:279 +0x1d0
+net/http.HandlerFunc.ServeHTTP(0xb5f740?, {0x84a360?, 0xc000000620?}, 0x6148b6?)
+	C:/Program Files/Go/src/net/http/server.go:2294 +0x29
+net/http.(*ServeMux).ServeHTTP(0x340199?, {0x84a360, 0xc000000620}, 0xc000122b40)
+	C:/Program Files/Go/src/net/http/server.go:2822 +0x1c4
+net/http.serverHandler.ServeHTTP({0xc000153590?}, {0x84a360?, 0xc000000620?}, 0x6?)
+	C:/Program Files/Go/src/net/http/server.go:3301 +0x8e
+net/http.(*conn).serve(0xc0001327e0, {0x84a8c8, 0xc00008fa10})
+	C:/Program Files/Go/src/net/http/server.go:2102 +0x625
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3454 +0x485
+2025/05/10 21:20:34 Login successful
+2025/05/10 21:20:34 Started Master at 2025-05-10 21:20:34.9691509 +0300 EEST m=+23.495820801
+2025/05/10 21:20:38 userDb is called
+2025/05/10 21:21:23 userDb is called
+2025/05/10 21:21:26 userDb is called
+2025/05/10 21:45:18 Login successful
+2025/05/10 21:45:18 Started Master at 2025-05-10 21:45:18.234066 +0300 EEST m=+19.093633701
+2025/05/10 21:45:22 userDb is called
+2025/05/10 21:47:09 Login successful
+2025/05/10 21:47:10 Started Master at 2025-05-10 21:47:10.0024717 +0300 EEST m=+19.569916801
+2025/05/10 21:47:13 userDb is called
+2025/05/10 21:55:33 Login successful
+2025/05/10 21:55:33 Started Master at 2025-05-10 21:55:33.6954953 +0300 EEST m=+26.934968901
+2025/05/10 21:55:37 userDb is called
+2025/05/10 21:56:52 Login successful
+2025/05/10 21:56:52 Started Master at 2025-05-10 21:56:52.5745088 +0300 EEST m=+21.121660601
+2025/05/10 21:56:56 userDb is called
+2025/05/10 21:57:03 Row got deleted
+2025/05/10 22:00:20 Login successful
+2025/05/10 22:00:20 Started Master at 2025-05-10 22:00:20.848484 +0300 EEST m=+21.042012301
+2025/05/10 22:00:23 userDb is called
+2025/05/10 22:03:27 Login successful
+2025/05/10 22:03:27 Started Master at 2025-05-10 22:03:27.1662702 +0300 EEST m=+22.698211501
+2025/05/10 22:03:30 userDb is called
+2025/05/10 22:03:30 userDb is called
+2025/05/10 22:03:38 Row with id 1 deleted
+2025/05/10 22:04:10 Row with id 3 deleted
+2025/05/10 22:04:20 Row with id 1 deleted
+2025/05/10 22:18:19 Login successful
+2025/05/10 22:18:19 Started Master at 2025-05-10 22:18:19.7681333 +0300 EEST m=+22.995687201
+2025/05/10 22:18:40 Received dbName: katl
+2025/05/10 22:18:40 Created database: katl
+2025/05/10 22:18:55 Error: and error while deleting the database <nil>
+2025/05/10 22:18:59 userDb is called
+2025/05/10 22:20:30 Row with id 1 deleted
+2025/05/10 22:20:51 Row with id 4 deleted
+2025/05/10 22:20:55 Row with id 33 deleted
+2025/05/10 22:23:39 Error: and error while deleting the table <nil>
+2025/05/10 22:25:33 userDb is called
+2025/05/10 22:25:35 Error: and error while deleting the database <nil>
+2025/05/10 22:25:37 Error: and error while deleting the database <nil>
+2025/05/10 22:25:43 Error: and error while deleting the database <nil>
+2025/05/10 22:25:45 Error: and error while deleting the database <nil>
+2025/05/10 22:25:48 Error: and error while deleting the database <nil>
+2025/05/10 22:25:51 Error: and error while deleting the database <nil>
+2025/05/10 22:25:53 Error: and error while deleting the database <nil>
+2025/05/10 22:25:57 Error: and error while deleting the database <nil>
+2025/05/10 22:25:59 Error: and error while deleting the database <nil>
+2025/05/10 22:26:02 Error: and error while deleting the database <nil>
+2025/05/10 22:26:04 Error: and error while deleting the database <nil>
+2025/05/10 22:26:07 Error: and error while deleting the database <nil>
+2025/05/10 22:26:10 Error: and error while deleting the database <nil>
+2025/05/10 22:26:13 Error: and error while deleting the database <nil>
+2025/05/10 22:26:15 Error: and error while deleting the database <nil>
+2025/05/10 22:26:21 Database got deleted
+2025/05/10 22:26:25 Error: and error while deleting the database <nil>
+2025/05/10 22:26:27 Error: and error while deleting the database <nil>
+2025/05/10 22:26:29 Error: and error while deleting the database <nil>
+2025/05/10 22:26:31 Error: and error while deleting the database <nil>
+2025/05/10 22:26:32 Error: and error while deleting the database <nil>
+2025/05/10 22:26:35 Error: and error while deleting the database <nil>
+2025/05/10 22:26:36 Error: and error while deleting the database <nil>
+2025/05/10 22:26:38 Error: and error while deleting the database <nil>
+2025/05/10 22:26:39 Error: and error while deleting the database <nil>
+2025/05/10 22:26:41 userDb is called
+2025/05/10 22:26:44 Error: and error while deleting the database <nil>
+2025/05/10 22:26:46 Error: and error while deleting the database <nil>
+2025/05/10 22:26:48 Error: and error while deleting the database <nil>
+2025/05/10 22:26:50 Error: and error while deleting the database <nil>
+2025/05/10 22:26:53 Error: and error while deleting the database <nil>
+2025/05/10 22:26:57 Error: and error while deleting the database <nil>
+2025/05/10 22:26:59 Error: and error while deleting the database <nil>
+2025/05/10 22:27:01 Error: and error while deleting the database <nil>
+2025/05/10 22:27:04 Error: and error while deleting the database <nil>
+2025/05/10 22:27:06 Error: and error while deleting the database <nil>
+2025/05/10 22:27:08 Error: and error while deleting the database <nil>
+2025/05/10 22:27:13 Error: and error while deleting the database <nil>
+2025/05/10 22:27:15 Error: and error while deleting the database <nil>
+2025/05/10 22:27:17 Error: and error while deleting the database <nil>
+2025/05/10 22:27:19 Error: and error while deleting the database <nil>
+2025/05/10 22:27:20 Error: and error while deleting the database <nil>
+2025/05/10 22:27:24 Error: and error while deleting the database <nil>
+2025/05/10 22:27:26 Error: and error while deleting the database <nil>
+2025/05/10 22:27:28 Error: and error while deleting the database <nil>
+2025/05/10 22:27:29 Error: and error while deleting the database <nil>
+2025/05/10 22:27:31 Error: and error while deleting the database <nil>
+2025/05/10 22:27:33 Error: and error while deleting the database <nil>
+2025/05/10 22:27:35 Error: and error while deleting the database <nil>
+2025/05/10 22:27:37 Error: and error while deleting the database <nil>
+2025/05/10 22:27:40 Error: and error while deleting the database <nil>
+2025/05/10 22:27:42 Error: and error while deleting the database <nil>
+2025/05/10 22:27:45 Error: and error while deleting the database <nil>
+2025/05/10 22:27:46 Error: and error while deleting the database <nil>
+2025/05/10 22:27:49 Error: and error while deleting the database <nil>
+2025/05/10 22:27:51 Error: and error while deleting the database <nil>
+2025/05/10 22:27:53 Error: and error while deleting the database <nil>
+2025/05/10 22:27:55 Error: and error while deleting the database <nil>
+2025/05/10 22:27:57 Error: and error while deleting the database <nil>
+2025/05/10 22:27:59 Error: and error while deleting the database <nil>
+2025/05/10 22:28:01 Error: and error while deleting the database <nil>
+2025/05/10 22:28:05 Database got deleted
+2025/05/10 22:28:06 Database got deleted
+2025/05/10 22:28:08 Database got deleted
+2025/05/10 22:28:14 Error: and error while deleting the database <nil>
+2025/05/10 22:28:16 Error: and error while deleting the database <nil>
+2025/05/10 22:28:17 Error: and error while deleting the database <nil>
+2025/05/10 22:28:19 Error: and error while deleting the database <nil>
+2025/05/10 22:28:20 Error: and error while deleting the database <nil>
+2025/05/10 22:28:23 Error: and error while deleting the database <nil>
+2025/05/10 22:28:25 Error: and error while deleting the database <nil>
+2025/05/10 22:28:27 Error: and error while deleting the database <nil>
+2025/05/10 22:28:30 Error: and error while deleting the database <nil>
+2025/05/10 22:28:32 userDb is called
+2025/05/10 22:28:35 Error: and error while deleting the database <nil>
+2025/05/10 22:28:37 Error: and error while deleting the database <nil>
+2025/05/10 22:28:39 Error: and error while deleting the database <nil>
+2025/05/10 22:28:41 Error: and error while deleting the database <nil>
+2025/05/10 22:28:43 Error: and error while deleting the database <nil>
+2025/05/10 22:28:45 Error: and error while deleting the database <nil>
+2025/05/10 22:28:48 Error: and error while deleting the database <nil>
+2025/05/10 22:28:51 userDb is called
+2025/05/10 22:28:54 userDb is called
+2025/05/10 22:28:57 userDb is called
+2025/05/10 23:24:38 Login successful
+2025/05/10 23:24:38 Started Master TCP server at 2025-05-10 23:24:38.3019467 +0300 EEST m=+20.186097801
+2025/05/10 23:24:53 Received dbName: marwa
+2025/05/10 23:24:53 Created database: marwa
+2025/05/10 23:24:57 userDb is called
+2025/05/10 23:25:05 Received tbName: user
+2025/05/10 23:25:05 Created tabke: user
+2025/05/10 23:25:05 No slaves connected to broadcast query
+2025/05/10 23:25:31 No slaves connected to broadcast query
+2025/05/10 23:25:46 No slaves connected to broadcast query
+2025/05/10 23:25:46 Added new row to table user
+2025/05/10 23:27:32 New slave connected: 127.0.0.1:60335
+2025/05/10 23:27:32 Starting synchronization for new slave: 127.0.0.1:60335
+2025/05/10 23:27:32 Found 1 tables to sync for slave 127.0.0.1:60335
+2025/05/10 23:27:32 Syncing 1 rows from table user
+2025/05/10 23:27:32 Synced 1 rows for table user
+2025/05/10 23:27:32 Completed synchronization for slave: 127.0.0.1:60335
+2025/05/10 23:28:26 Received query from 127.0.0.1:60335: insert into user (name) values ('manar');
+2025/05/10 23:28:26 Executed successfully for 127.0.0.1:60335. Rows: 1, LastID: 3
+2025/05/10 23:28:26 No other slaves connected to broadcast query
+2025/05/10 23:29:09 Received query from 127.0.0.1:60335: insert into user (name) values ('kamel');
+2025/05/10 23:29:09 Executed successfully for 127.0.0.1:60335. Rows: 1, LastID: 5
+2025/05/10 23:29:09 No other slaves connected to broadcast query
+2025/05/10 23:29:21 Row with id 5 deleted
+2025/05/10 23:29:21 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/10 23:29:21 Sent query to slave: 127.0.0.1:60335
+2025/05/10 23:29:25 Row with id 4 deleted
+2025/05/10 23:29:25 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/10 23:29:25 Sent query to slave: 127.0.0.1:60335
+2025/05/10 23:29:27 Row with id 3 deleted
+2025/05/10 23:29:27 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/10 23:29:27 Sent query to slave: 127.0.0.1:60335
+2025/05/10 23:30:11 Received query from 127.0.0.1:60335: select * from user;
+2025/05/10 23:30:11 Sent SELECT response to 127.0.0.1:60335
+2025/05/10 23:30:20 Received query from 127.0.0.1:60335: insert into user (name) values ('kamel');
+2025/05/10 23:30:20 Executed successfully for 127.0.0.1:60335. Rows: 1, LastID: 7
+2025/05/10 23:30:20 No other slaves connected to broadcast query
+2025/05/10 23:30:37 Row with id 7 deleted
+2025/05/10 23:30:37 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/10 23:30:37 Sent query to slave: 127.0.0.1:60335
+2025/05/10 23:31:05 Received query from 127.0.0.1:60335: delete from user where id=6;
+2025/05/10 23:31:05 Executed successfully for 127.0.0.1:60335. Rows: 0, LastID: 0
+2025/05/10 23:31:05 No other slaves connected to broadcast query
+2025/05/10 23:31:29 Received query from 127.0.0.1:60335: select*from user;
+2025/05/10 23:31:29 Sent SELECT response to 127.0.0.1:60335
+2025/05/10 23:37:04 Connection closed or read error from 127.0.0.1:60335 : read tcp 127.0.0.1:9000->127.0.0.1:60335: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/10 23:37:04 Slave disconnected: 127.0.0.1:60335
+2025/05/10 23:55:31 No slaves connected to broadcast query
+2025/05/10 23:55:31 Added new row to table user
+2025/05/10 23:56:58 New slave connected: 127.0.0.1:58142
+2025/05/10 23:56:58 Starting synchronization for new slave: 127.0.0.1:58142
+2025/05/10 23:56:58 Found 1 tables to sync for slave 127.0.0.1:58142
+2025/05/10 23:56:58 Syncing 3 rows from table user
+2025/05/10 23:56:58 Synced 3 rows for table user
+2025/05/10 23:56:58 Completed synchronization for slave: 127.0.0.1:58142
+2025/05/10 23:57:36 Received query from 127.0.0.1:58142: select*from user;
+2025/05/10 23:57:36 Sent SELECT response to 127.0.0.1:58142
+2025/05/10 23:58:19 Received query from 127.0.0.1:58142: insert into user (name) values ('maha');
+2025/05/10 23:58:19 Executed successfully for 127.0.0.1:58142. Rows: 1, LastID: 9
+2025/05/10 23:58:19 No other slaves connected to broadcast query
+2025/05/10 23:58:55 Received query from 127.0.0.1:58142: select* from user;
+2025/05/10 23:58:55 Sent SELECT response to 127.0.0.1:58142
+2025/05/10 23:59:49 Row with id 9 deleted
+2025/05/10 23:59:49 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/10 23:59:49 Sent query to slave: 127.0.0.1:58142
+2025/05/10 23:59:57 Received query from 127.0.0.1:58142: select* from user;
+2025/05/10 23:59:57 Sent SELECT response to 127.0.0.1:58142
+2025/05/11 00:07:53 Connection closed or read error from 127.0.0.1:58142 : read tcp 127.0.0.1:9000->127.0.0.1:58142: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/11 00:07:53 Slave disconnected: 127.0.0.1:58142
+2025/05/11 00:08:25 New slave connected: 192.168.1.3:60457
+2025/05/11 00:08:25 Starting synchronization for new slave: 192.168.1.3:60457
+2025/05/11 00:08:25 Found 1 tables to sync for slave 192.168.1.3:60457
+2025/05/11 00:08:25 Syncing 4 rows from table user
+2025/05/11 00:08:25 Synced 4 rows for table user
+2025/05/11 00:08:25 Completed synchronization for slave: 192.168.1.3:60457
+2025/05/11 00:09:18 Received query from 192.168.1.3:60457: insert into user (name) values ('mka');
+2025/05/11 00:09:18 Executed successfully for 192.168.1.3:60457. Rows: 1, LastID: 10
+2025/05/11 00:09:18 No other slaves connected to broadcast query
+2025/05/11 00:09:43 Received query from 192.168.1.3:60457: select * from user;
+2025/05/11 00:09:43 Sent SELECT response to 192.168.1.3:60457
+2025/05/11 00:10:28 Received query from 192.168.1.3:60457: delete from user where id=1;
+2025/05/11 00:10:28 Executed successfully for 192.168.1.3:60457. Rows: 1, LastID: 0
+2025/05/11 00:10:28 No other slaves connected to broadcast query
+2025/05/11 00:10:32 Received query from 192.168.1.3:60457: select * from user;
+2025/05/11 00:10:32 Sent SELECT response to 192.168.1.3:60457
+2025/05/11 00:10:45 Row with id 3 deleted
+2025/05/11 00:10:45 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/11 00:10:45 Sent query to slave: 192.168.1.3:60457
+2025/05/11 00:10:48 Received query from 192.168.1.3:60457: select * from user;
+2025/05/11 00:10:48 Sent SELECT response to 192.168.1.3:60457
+2025/05/11 00:10:55 Received query from 192.168.1.3:60457: select * from user;
+2025/05/11 00:10:55 Sent SELECT response to 192.168.1.3:60457
+2025/05/11 00:12:06 Row with id 8 deleted
+2025/05/11 00:12:06 Broadcasting query to 1 slaves: delete from user where id = ?
+2025/05/11 00:12:06 Sent query to slave: 192.168.1.3:60457
+2025/05/11 00:12:28 Received query from 192.168.1.3:60457: select * from user;
+2025/05/11 00:12:28 Sent SELECT response to 192.168.1.3:60457
+2025/05/11 00:14:36 Error: and error while deleting the table <nil>
+2025/05/11 00:14:36 Broadcasting query to 1 slaves: drop table user
+2025/05/11 00:14:36 Sent query to slave: 192.168.1.3:60457
+2025/05/11 00:16:05 Connection closed or read error from 192.168.1.3:60457 : read tcp 192.168.1.11:9000->192.168.1.3:60457: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/11 00:16:05 Slave disconnected: 192.168.1.3:60457
+2025/05/14 23:45:34 Login successful
+2025/05/14 23:45:34 Started Master TCP server at 2025-05-14 23:45:34.9622943 +0300 EEST m=+51.627153501
+2025/05/14 23:45:36 New slave connected: 192.168.1.3:54949
+2025/05/14 23:45:36 Starting synchronization for new slave: 192.168.1.3:54949
+2025/05/14 23:45:36 No database selected, skipping sync for slave: 192.168.1.3:54949
+2025/05/14 23:45:53 Error: and error while deleting the database <nil>
+2025/05/14 23:45:53 Broadcasting query to 1 slaves: drop database marwa
+2025/05/14 23:45:53 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:45:55 Error: and error while deleting the database <nil>
+2025/05/14 23:45:55 Broadcasting query to 1 slaves: drop database master
+2025/05/14 23:45:55 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:45:59 Error: and error while deleting the database <nil>
+2025/05/14 23:45:59 Broadcasting query to 1 slaves: drop database master1
+2025/05/14 23:45:59 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:46:01 Error: and error while deleting the database <nil>
+2025/05/14 23:46:01 Broadcasting query to 1 slaves: drop database kal
+2025/05/14 23:46:01 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:46:03 Error: and error while deleting the database <nil>
+2025/05/14 23:46:03 Broadcasting query to 1 slaves: drop database mko
+2025/05/14 23:46:03 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:46:07 Error: and error while deleting the database <nil>
+2025/05/14 23:46:07 Broadcasting query to 1 slaves: drop database mmk
+2025/05/14 23:46:07 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:46:09 Database got deleted
+2025/05/14 23:46:09 Broadcasting query to 1 slaves: drop database mysql
+2025/05/14 23:46:09 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:46:22 Received tbName: marwa
+2025/05/14 23:46:22 Error creating table: Error 1046 (3D000): No database selected
+2025/05/14 23:48:31 Received dbName: marwa
+2025/05/14 23:48:31 Created database: marwa
+2025/05/14 23:48:37 userDb is called
+2025/05/14 23:48:49 Received tbName: user
+2025/05/14 23:48:49 Created tabke: user
+2025/05/14 23:48:49 Broadcasting query to 1 slaves: create table if not exists user(id int auto_increment primary key)
+2025/05/14 23:48:49 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:49:08 Broadcasting query to 1 slaves: ALTER TABLE user ADD COLUMN name VARCHAR(225) not null
+2025/05/14 23:49:08 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:49:23 Broadcasting query to 1 slaves: INSERT INTO user (id, name) VALUES ('1', 'marwa')
+2025/05/14 23:49:23 Sent query to slave: 192.168.1.3:54949
+2025/05/14 23:49:23 Added new row to table user
+2025/05/14 23:49:49 Received query from 192.168.1.3:54949: insert into user (name) values ('manar');
+2025/05/14 23:49:49 Execution error: Error 1046 (3D000): No database selected
+2025/05/14 23:50:17 Received query from 192.168.1.3:54949: select * from user;
+2025/05/14 23:50:17 Query error: Error 1046 (3D000): No database selected
+2025/05/15 00:32:33 Login successful
+2025/05/15 00:32:33 Started Master TCP server at 2025-05-15 00:32:33.88588 +0300 EEST m=+21.834584201
+2025/05/15 00:33:12 userDb is called
+2025/05/15 00:33:30 New slave connected: 192.168.1.3:55138
+2025/05/15 00:33:30 Starting synchronization for new slave: 192.168.1.3:55138
+2025/05/15 00:33:30 Found 1 tables to sync for slave 192.168.1.3:55138
+2025/05/15 00:33:30 Syncing 1 rows from table user
+2025/05/15 00:33:30 Synced 1 rows for table user
+2025/05/15 00:33:30 Completed synchronization for slave: 192.168.1.3:55138
+2025/05/15 00:33:59 Broadcasting query to 1 slaves: INSERT INTO user (id, name) VALUES ('2', 'kok')
+2025/05/15 00:33:59 Sent query to slave: 192.168.1.3:55138
+2025/05/15 00:33:59 Added new row to table user
+2025/05/15 00:34:39 Received query from 192.168.1.3:55138: insert into user (name) values ('manar');
+2025/05/15 00:34:39 Executed successfully for 192.168.1.3:55138. Rows: 1, LastID: 3
+2025/05/15 00:34:39 No other slaves connected to broadcast query
+2025/05/15 00:35:07 Received query from 192.168.1.3:55138: select * from user;
+2025/05/15 00:35:07 Sent SELECT response to 192.168.1.3:55138
+2025/05/15 00:36:08 Received query from 192.168.1.3:55138: delete from user where id=1;
+2025/05/15 00:36:08 Executed successfully for 192.168.1.3:55138. Rows: 1, LastID: 0
+2025/05/15 00:36:08 No other slaves connected to broadcast query
+2025/05/15 00:36:44 Received query from 192.168.1.3:55138: update user set name ='moka' where id=2;
+2025/05/15 00:36:44 Executed successfully for 192.168.1.3:55138. Rows: 1, LastID: 0
+2025/05/15 00:36:44 No other slaves connected to broadcast query
+2025/05/15 00:37:20 Received dbName: moka
+2025/05/15 00:37:20 Created database: moka
+2025/05/15 00:37:36 Received tbName: nan
+2025/05/15 00:37:36 Created tabke: nan
+2025/05/15 00:37:36 Broadcasting query to 1 slaves: create table if not exists nan(id int auto_increment primary key)
+2025/05/15 00:37:36 Sent query to slave: 192.168.1.3:55138
+2025/05/15 00:37:56 userDb is called
+2025/05/15 00:38:06 Received tbName: kak
+2025/05/15 00:38:06 Created tabke: kak
+2025/05/15 00:38:06 Broadcasting query to 1 slaves: create table if not exists kak(id int auto_increment primary key)
+2025/05/15 00:38:06 Sent query to slave: 192.168.1.3:55138
+2025/05/15 00:38:25 Broadcasting query to 1 slaves: ALTER TABLE kak ADD COLUMN name VARCHAR(225) not null
+2025/05/15 00:38:25 Sent query to slave: 192.168.1.3:55138
+2025/05/15 00:38:40 Broadcasting query to 1 slaves: INSERT INTO kak (id, name) VALUES ('1', 'marwa')
+2025/05/15 00:38:40 Sent query to slave: 192.168.1.3:55138
+2025/05/15 00:38:40 Added new row to table kak
+2025/05/15 00:39:14 Received query from 192.168.1.3:55138: select * from kak;
+2025/05/15 00:39:14 Query error: Error 1146 (42S02): Table 'marwa.kak' doesn't exist
+2025/05/15 00:40:16 Received query from 192.168.1.3:55138: insert into kak (name) values ('mko');
+2025/05/15 00:40:16 Execution error: Error 1146 (42S02): Table 'marwa.kak' doesn't exist
+2025/05/15 00:40:25 Received query from 192.168.1.3:55138: select * from kak;
+2025/05/15 00:40:25 Query error: Error 1146 (42S02): Table 'marwa.kak' doesn't exist
+2025/05/15 00:40:41 userDb is called
+2025/05/15 00:41:11 Broadcasting query to 1 slaves: INSERT INTO user (id, name) VALUES ('6', 'kok')
+2025/05/15 00:41:11 Sent query to slave: 192.168.1.3:55138
+2025/05/15 00:41:11 Added new row to table user
+2025/05/15 00:41:38 Received query from 192.168.1.3:55138: select * from user;
+2025/05/15 00:41:38 Sent SELECT response to 192.168.1.3:55138
+2025/05/15 00:42:26 Received query from 192.168.1.3:55138: insert into user (name) values ('moj');
+2025/05/15 00:42:26 Executed successfully for 192.168.1.3:55138. Rows: 1, LastID: 7
+2025/05/15 00:42:26 No other slaves connected to broadcast query
+2025/05/15 00:42:37 Received query from 192.168.1.3:55138: select * from user;
+2025/05/15 00:42:37 Sent SELECT response to 192.168.1.3:55138
+2025/05/15 00:50:18 Login successful
+2025/05/15 00:50:18 Started Master TCP server at 2025-05-15 00:50:18.402796 +0300 EEST m=+59.814572301
+2025/05/15 00:50:21 New slave connected: 192.168.1.3:55188
+2025/05/15 00:50:21 Starting synchronization for new slave: 192.168.1.3:55188
+2025/05/15 00:50:21 No database selected, skipping sync for slave: 192.168.1.3:55188
+2025/05/15 00:50:25 userDb is called
+2025/05/15 00:50:39 Row with id 7 deleted
+2025/05/15 00:50:39 Broadcasting query to 1 slaves: DELETE FROM user WHERE id = 7
+2025/05/15 00:50:39 Sent query to slave: 192.168.1.3:55188
+2025/05/15 00:50:53 Received query from 192.168.1.3:55188: select * from user;
+2025/05/15 00:50:53 Query error: Error 1046 (3D000): No database selected
+2025/05/15 00:50:59 Row with id 6 deleted
+2025/05/15 00:50:59 Broadcasting query to 1 slaves: DELETE FROM user WHERE id = 6
+2025/05/15 00:50:59 Sent query to slave: 192.168.1.3:55188
+2025/05/15 00:51:04 Received query from 192.168.1.3:55188: select * from user;
+2025/05/15 00:51:04 Query error: Error 1046 (3D000): No database selected
+2025/05/15 00:51:18 Received query from 192.168.1.3:55188: use marwa;
+2025/05/15 00:51:18 Executed successfully for 192.168.1.3:55188. Rows: 0, LastID: 0
+2025/05/15 00:51:18 No other slaves connected to broadcast query
+2025/05/15 00:51:27 Received query from 192.168.1.3:55188: select * from user;
+2025/05/15 00:51:27 Sent SELECT response to 192.168.1.3:55188
+2025/05/15 00:51:32 Row with id 3 deleted
+2025/05/15 00:51:32 Broadcasting query to 1 slaves: DELETE FROM user WHERE id = 3
+2025/05/15 00:51:32 Sent query to slave: 192.168.1.3:55188
+2025/05/15 00:51:38 Received query from 192.168.1.3:55188: select * from user;
+2025/05/15 00:51:38 Sent SELECT response to 192.168.1.3:55188
+2025/05/15 00:51:58 Connection closed or read error from 192.168.1.3:55188 : read tcp 192.168.1.11:9000->192.168.1.3:55188: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/15 00:51:58 Slave disconnected: 192.168.1.3:55188
+2025/05/15 00:52:34 Login successful
+2025/05/15 00:52:34 Started Master TCP server at 2025-05-15 00:52:34.5429052 +0300 EEST m=+21.237891201
+2025/05/15 00:52:57 New slave connected: 192.168.1.3:55199
+2025/05/15 00:52:57 Starting synchronization for new slave: 192.168.1.3:55199
+2025/05/15 00:52:57 No database selected, skipping sync for slave: 192.168.1.3:55199
+2025/05/15 00:53:14 Received dbName: lol
+2025/05/15 00:53:14 Created database: lol
+2025/05/15 00:53:29 Received tbName: user
+2025/05/15 00:53:29 Error creating table: Error 1046 (3D000): No database selected
+2025/05/15 00:53:33 userDb is called
+2025/05/15 00:53:40 Received tbName: user
+2025/05/15 00:53:40 Created tabke: user
+2025/05/15 00:53:40 Broadcasting query to 1 slaves: create table if not exists user(id int auto_increment primary key)
+2025/05/15 00:53:40 Sent query to slave: 192.168.1.3:55199
+2025/05/15 00:54:06 Broadcasting query to 1 slaves: ALTER TABLE user ADD COLUMN name VARCHAR(225) not null
+2025/05/15 00:54:06 Sent query to slave: 192.168.1.3:55199
+2025/05/15 00:54:18 Broadcasting query to 1 slaves: INSERT INTO user (id, name) VALUES ('1', 'marwa')
+2025/05/15 00:54:18 Sent query to slave: 192.168.1.3:55199
+2025/05/15 00:54:18 Added new row to table user
+2025/05/15 00:54:24 Row with id 1 deleted
+2025/05/15 00:54:24 Broadcasting query to 1 slaves: DELETE FROM user WHERE id = 1
+2025/05/15 00:54:24 Sent query to slave: 192.168.1.3:55199
+2025/05/15 00:54:40 Broadcasting query to 1 slaves: INSERT INTO user (id, name) VALUES ('2', 'kok')
+2025/05/15 00:54:40 Sent query to slave: 192.168.1.3:55199
+2025/05/15 00:54:40 Added new row to table user
+2025/05/15 00:55:02 Received query from 192.168.1.3:55199: insert into user (name) values ('mok');
+2025/05/15 00:55:03 Execution error: Error 1046 (3D000): No database selected
+2025/05/15 00:56:14 Received query from 192.168.1.3:55199: select* from user;
+2025/05/15 00:56:14 Query error: Error 1046 (3D000): No database selected
+2025/05/15 01:39:42 Database ping failed: Error 1045 (28000): Access denied for user 'rooot'@'localhost' (using password: NO)
+2025/05/15 01:39:56 Login successful
+2025/05/15 01:39:56 Started Master TCP server at 2025-05-15 01:39:56.7477357 +0300 EEST m=+31.446525301
+2025/05/15 01:40:03 Error: and error while deleting the database <nil>
+2025/05/15 01:40:03 Broadcasted query to 0 slaves: USE ; drop database marwa
+2025/05/15 01:40:05 Error: and error while deleting the database <nil>
+2025/05/15 01:40:05 Broadcasted query to 0 slaves: USE ; drop database moka
+2025/05/15 01:40:08 Error: and error while deleting the database <nil>
+2025/05/15 01:40:08 Broadcasted query to 0 slaves: USE ; drop database lol
+2025/05/15 01:42:05 New slave connected: 192.168.1.3:63305
+2025/05/15 01:42:05 Starting synchronization for new slave: 192.168.1.3:63305
+2025/05/15 01:42:05 No database selected, skipping sync for slave: 192.168.1.3:63305
+2025/05/15 01:42:30 Received dbName: lolo
+2025/05/15 01:42:30 Created database: lolo
+2025/05/15 01:42:35 userDb is called
+2025/05/15 01:42:35 Broadcasted query to 1 slaves: USE lolo; USE lolo
+2025/05/15 01:42:43 Received tbName: user
+2025/05/15 01:42:43 Created tabke: user
+2025/05/15 01:42:43 Broadcasted query to 1 slaves: USE lolo; create table if not exists user(id int auto_increment primary key)
+2025/05/15 01:43:01 Broadcasted query to 1 slaves: USE lolo; ALTER TABLE user ADD COLUMN name VARCHAR(225) not null
+2025/05/15 01:43:13 Broadcasted query to 1 slaves: USE lolo; INSERT INTO user (id, name) VALUES ('1', 'marwa')
+2025/05/15 01:43:13 Added new row to table user
+2025/05/15 01:43:36 Received query from 192.168.1.3:63305: select * from user;
+2025/05/15 01:43:36 Query error: Error 1046 (3D000): No database selected
+2025/05/15 01:44:01 Received query from 192.168.1.3:63305: insert into user (name) values ('mko');
+2025/05/15 01:44:01 Execution error: Error 1046 (3D000): No database selected
+2025/05/15 01:44:10 Received query from 192.168.1.3:63305: select * from user;
+2025/05/15 01:44:10 Query error: Error 1046 (3D000): No database selected
+2025/05/15 01:46:50 Connection closed or read error from 192.168.1.3:63305 : read tcp 192.168.1.11:9000->192.168.1.3:63305: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/15 01:46:50 Slave disconnected: 192.168.1.3:63305
+2025/05/15 01:48:32 New slave connected: 192.168.1.3:63321
+2025/05/15 01:48:32 Starting synchronization for new slave: 192.168.1.3:63321
+2025/05/15 01:48:32 Found 1 tables to sync for slave 192.168.1.3:63321
+2025/05/15 01:48:32 Syncing 1 rows from table user
+2025/05/15 01:48:32 Synced 1 rows for table user
+2025/05/15 01:48:32 Completed synchronization for slave: 192.168.1.3:63321
+2025/05/15 01:48:59 Received query from 192.168.1.3:63321: select * from user;
+2025/05/15 01:48:59 Sent SELECT response to 192.168.1.3:63321
+2025/05/15 01:49:25 Broadcasted query to 1 slaves: USE lolo; INSERT INTO user (id, name) VALUES ('2', 'mmok')
+2025/05/15 01:49:25 Added new row to table user
+2025/05/15 01:50:03 Received query from 192.168.1.3:63321: insert into user (name) values ('lolo');
+2025/05/15 01:50:03 Executed successfully for 192.168.1.3:63321. Rows: 1, LastID: 3
+2025/05/15 01:50:03 Broadcasted query to other slaves: USE lolo; insert into user (name) values ('lolo');
+2025/05/15 01:50:15 Row with id 3 deleted
+2025/05/15 01:50:15 Broadcasted query to 1 slaves: USE lolo; DELETE FROM user WHERE id = 3
+2025/05/15 01:50:31 Received query from 192.168.1.3:63321: select*from user;
+2025/05/15 01:50:31 Sent SELECT response to 192.168.1.3:63321
+2025/05/15 01:50:42 Received query from 192.168.1.3:63321: select*from user;
+2025/05/15 01:50:42 Sent SELECT response to 192.168.1.3:63321
+2025/05/15 01:51:08 Received query from 192.168.1.3:63321: insert into user (name) values ('kok');
+2025/05/15 01:51:08 Executed successfully for 192.168.1.3:63321. Rows: 1, LastID: 4
+2025/05/15 01:51:08 Broadcasted query to other slaves: USE lolo; insert into user (name) values ('kok');
+2025/05/15 01:51:43 Connection closed or read error from 192.168.1.3:63321 : read tcp 192.168.1.11:9000->192.168.1.3:63321: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/15 01:51:43 Slave disconnected: 192.168.1.3:63321
+2025/05/15 02:39:05 Login successful
+2025/05/15 02:39:05 Started Master TCP server at 2025-05-15 02:39:05.8712291 +0300 EEST m=+36.176882101
+2025/05/15 02:39:09 userDb is called
+2025/05/15 02:39:09 Broadcasted query to 0 slaves: USE lolo; USE lolo
+2025/05/15 02:39:32 Broadcasted query to 0 slaves: USE lolo; UPDATE user SET name = ? WHERE id = ?
+2025/05/15 02:39:50 Broadcasted query to 0 slaves: USE lolo; UPDATE user SET name = ? WHERE id = ?
+2025/05/15 02:50:45 Login successful
+2025/05/15 02:50:45 Started Master TCP server at 2025-05-15 02:50:45.5231443 +0300 EEST m=+22.259606701
+2025/05/15 02:50:49 userDb is called
+2025/05/15 02:50:49 Broadcasted query to 0 slaves: USE lolo; USE lolo
+2025/05/15 02:52:18 New slave connected: 192.168.1.3:63772
+2025/05/15 02:52:18 Starting synchronization for new slave: 192.168.1.3:63772
+2025/05/15 02:52:18 Found 1 tables to sync for slave 192.168.1.3:63772
+2025/05/15 02:52:18 Syncing 3 rows from table user
+2025/05/15 02:52:18 Synced 3 rows for table user
+2025/05/15 02:52:18 Completed synchronization for slave: 192.168.1.3:63772
+2025/05/15 02:52:39 Broadcasted query to 1 slaves: USE lolo; UPDATE user SET name = ? WHERE id = 1
+2025/05/15 02:56:38 Login successful
+2025/05/15 02:56:38 Started Master TCP server at 2025-05-15 02:56:38.2116143 +0300 EEST m=+44.450636801
+2025/05/15 02:56:41 userDb is called
+2025/05/15 02:56:41 Broadcasted query to 0 slaves: USE lolo; USE lolo
+2025/05/15 02:56:59 New slave connected: 192.168.1.3:64037
+2025/05/15 02:56:59 Starting synchronization for new slave: 192.168.1.3:64037
+2025/05/15 02:56:59 Found 1 tables to sync for slave 192.168.1.3:64037
+2025/05/15 02:56:59 Syncing 3 rows from table user
+2025/05/15 02:56:59 Synced 3 rows for table user
+2025/05/15 02:56:59 Completed synchronization for slave: 192.168.1.3:64037
+2025/05/15 02:57:16 Broadcasted query to 1 slaves: USE lolo; UPDATE user SET name = 'marwa' WHERE id = 1
+2025/05/15 02:57:34 Received query from 192.168.1.3:64037: select * from user;
+2025/05/15 02:57:34 Sent SELECT response to 192.168.1.3:64037
+2025/05/14 22:11:08 Login successful
+2025/05/14 22:11:08 Started Master TCP server at 2025-05-14 22:11:08.1515162 -0700 PDT m=+47.734774401
+2025/05/14 22:11:37 Error: and error while deleting the database <nil>
+2025/05/14 22:11:37 Broadcasted query to 0 slaves: USE ; drop database mkl
+2025/05/14 22:11:39 Error: and error while deleting the database <nil>
+2025/05/14 22:11:39 Broadcasted query to 0 slaves: USE ; drop database lol
+2025/05/14 22:11:45 Error: and error while deleting the database <nil>
+2025/05/14 22:11:45 Broadcasted query to 0 slaves: USE ; drop database dart
+2025/05/14 22:11:51 Error: and error while deleting the database <nil>
+2025/05/14 22:11:51 Broadcasted query to 0 slaves: USE ; drop database kay
+2025/05/14 22:11:54 Error: and error while deleting the database <nil>
+2025/05/14 22:11:54 Broadcasted query to 0 slaves: USE ; drop database mas
+2025/05/14 22:11:56 Error: and error while deleting the database <nil>
+2025/05/14 22:11:56 Broadcasted query to 0 slaves: USE ; drop database mka
+2025/05/14 22:11:59 Error: and error while deleting the database <nil>
+2025/05/14 22:11:59 Broadcasted query to 0 slaves: USE ; drop database meme
+2025/05/14 22:12:01 Error: and error while deleting the database <nil>
+2025/05/14 22:12:01 Broadcasted query to 0 slaves: USE ; drop database mm
+2025/05/14 22:12:03 Error: and error while deleting the database <nil>
+2025/05/14 22:12:03 Broadcasted query to 0 slaves: USE ; drop database mn
+2025/05/14 22:12:05 Error: and error while deleting the database <nil>
+2025/05/14 22:12:05 Broadcasted query to 0 slaves: USE ; drop database mss
+2025/05/14 22:12:07 Error: and error while deleting the database <nil>
+2025/05/14 22:12:07 Broadcasted query to 0 slaves: USE ; drop database mystar
+2025/05/14 22:12:10 Error: and error while deleting the database <nil>
+2025/05/14 22:12:10 Broadcasted query to 0 slaves: USE ; drop database n
+2025/05/14 22:12:12 Error: and error while deleting the database <nil>
+2025/05/14 22:12:12 Broadcasted query to 0 slaves: USE ; drop database nn
+2025/05/14 22:12:16 Error: and error while deleting the database <nil>
+2025/05/14 22:12:16 Broadcasted query to 0 slaves: USE ; drop database pot
+2025/05/14 22:12:18 Error: and error while deleting the database <nil>
+2025/05/14 22:12:18 Broadcasted query to 0 slaves: USE ; drop database sad
+2025/05/14 22:12:22 Error: and error while deleting the database <nil>
+2025/05/14 22:12:22 Broadcasted query to 0 slaves: USE ; drop database sadd
+2025/05/14 22:13:24 Error: and error while deleting the database <nil>
+2025/05/14 22:13:24 Broadcasted query to 0 slaves: USE ; drop database ss
+2025/05/14 22:13:27 Error: and error while deleting the database <nil>
+2025/05/14 22:13:27 Broadcasted query to 0 slaves: USE ; drop database star
+2025/05/14 22:13:38 Error: and error while deleting the database <nil>
+2025/05/14 22:13:38 Broadcasted query to 0 slaves: USE ; drop database test
+2025/05/14 22:13:40 Error: and error while deleting the database <nil>
+2025/05/14 22:13:40 Broadcasted query to 0 slaves: USE ; drop database tt
+2025/05/14 22:14:54 Error: and error while deleting the database <nil>
+2025/05/14 22:14:54 Broadcasted query to 0 slaves: USE ; drop database master1
+2025/05/14 22:14:56 Error: and error while deleting the database <nil>
+2025/05/14 22:14:56 Broadcasted query to 0 slaves: USE ; drop database master
+2025/05/14 22:15:02 Error: and error while deleting the database <nil>
+2025/05/14 22:15:02 Broadcasted query to 0 slaves: USE ; drop database aya
+2025/05/14 22:19:24 Login successful
+2025/05/14 22:19:24 Started Master TCP server at 2025-05-14 22:19:24.1463981 -0700 PDT m=+18.424791101
+2025/05/14 22:22:23 New slave connected: 192.168.135.102:8047
+2025/05/14 22:22:23 Starting synchronization for new slave: 192.168.135.102:8047
+2025/05/14 22:22:23 No database selected, skipping sync for slave: 192.168.135.102:8047
+2025/05/14 22:22:27 New slave connected: 192.168.135.132:60300
+2025/05/14 22:22:27 Starting synchronization for new slave: 192.168.135.132:60300
+2025/05/14 22:22:27 No database selected, skipping sync for slave: 192.168.135.132:60300
+2025/05/14 22:22:37 Received query from 192.168.135.102:8047: show databases;
+2025/05/14 22:22:37 Executed successfully for 192.168.135.102:8047. Rows: 0, LastID: 0
+2025/05/14 22:22:37 Broadcasted query to other slaves: USE ; show databases;
+2025/05/14 22:22:44 userDb is called
+2025/05/14 22:22:44 Broadcasted query to 2 slaves: USE star; USE star
+2025/05/14 22:22:57 userDb is called
+2025/05/14 22:22:57 Broadcasted query to 2 slaves: USE star; USE star
+2025/05/14 22:23:21 Received tbName: ss
+2025/05/14 22:23:21 Created tabke: ss
+2025/05/14 22:23:21 Broadcasted query to 2 slaves: USE star; create table if not exists ss(id int auto_increment primary key)
+2025/05/14 22:23:25 Error: and error while deleting the table <nil>
+2025/05/14 22:23:25 Broadcasted query to 2 slaves: USE star; drop table ss
+2025/05/14 22:23:39 Received tbName: student
+2025/05/14 22:23:39 Created tabke: student
+2025/05/14 22:23:39 Broadcasted query to 2 slaves: USE star; create table if not exists student(id int auto_increment primary key)
+2025/05/14 22:23:45 http: superfluous response.WriteHeader call from main.displayTable (master.go:370)
+2025/05/14 22:23:45 Template error: template: table.html:106:11: executing "table.html" at <index .Rows 0>: error calling index: reflect: slice index out of range
+2025/05/14 22:24:32 http: superfluous response.WriteHeader call from main.displayTable (master.go:370)
+2025/05/14 22:24:32 Template error: template: table.html:106:11: executing "table.html" at <index .Rows 0>: error calling index: reflect: slice index out of range
+2025/05/14 22:24:53 http: superfluous response.WriteHeader call from main.displayTable (master.go:370)
+2025/05/14 22:24:53 Template error: template: table.html:106:11: executing "table.html" at <index .Rows 0>: error calling index: reflect: slice index out of range
+2025/05/14 22:25:38 Connection closed or read error from 192.168.135.102:8047 : read tcp 192.168.135.108:9000->192.168.135.102:8047: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/14 22:25:38 Slave disconnected: 192.168.135.102:8047
+2025/05/14 22:26:11 Connection closed or read error from 192.168.135.132:60300 : read tcp 192.168.135.108:9000->192.168.135.132:60300: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/14 22:26:11 Slave disconnected: 192.168.135.132:60300
+2025/05/14 22:26:23 userDb is called
+2025/05/14 22:26:23 Broadcasted query to 0 slaves: USE fci; USE fci
+2025/05/14 22:26:46 userDb is called
+2025/05/14 22:26:46 Broadcasted query to 0 slaves: USE star; USE star
+2025/05/14 22:26:49 http: superfluous response.WriteHeader call from main.displayTable (master.go:370)
+2025/05/14 22:26:49 Template error: template: table.html:106:11: executing "table.html" at <index .Rows 0>: error calling index: reflect: slice index out of range
+2025/05/14 22:26:59 userDb is called
+2025/05/14 22:26:59 Broadcasted query to 0 slaves: USE koko; USE koko
+2025/05/14 22:27:06 Received tbName: st
+2025/05/14 22:27:07 Created tabke: st
+2025/05/14 22:27:07 Broadcasted query to 0 slaves: USE koko; create table if not exists st(id int auto_increment primary key)
+2025/05/14 22:27:09 http: superfluous response.WriteHeader call from main.displayTable (master.go:370)
+2025/05/14 22:27:09 Template error: template: table.html:106:11: executing "table.html" at <index .Rows 0>: error calling index: reflect: slice index out of range
+2025/05/14 22:30:24 Database ping failed: Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025/05/14 22:30:31 Login successful
+2025/05/14 22:30:31 Started Master TCP server at 2025-05-14 22:30:31.6517862 -0700 PDT m=+49.953731201
+2025/05/14 22:30:35 userDb is called
+2025/05/14 22:30:35 Broadcasted query to 0 slaves: USE bank; USE bank
+2025/05/14 22:30:37 userDb is called
+2025/05/14 22:30:37 Broadcasted query to 0 slaves: USE star; USE star
+2025/05/14 22:30:50 Broadcasted query to 0 slaves: USE star; ALTER TABLE student ADD COLUMN name int not null
+2025/05/14 22:31:29 Broadcasted query to 0 slaves: USE star; INSERT INTO student (id, name) VALUES ('1', '75')
+2025/05/14 22:31:29 Added new row to table student
+2025/05/14 22:31:38 Broadcasted query to 0 slaves: USE star; UPDATE student SET name = 9876 WHERE id = 1
+2025/05/14 22:31:55 Row with id 1 deleted
+2025/05/14 22:31:55 Broadcasted query to 0 slaves: USE star; DELETE FROM student WHERE id = 1
+2025/05/14 22:38:45 userDb is called
+2025/05/14 22:38:45 Broadcasted query to 0 slaves: USE banking; USE banking
+2025/05/14 22:39:51 Received dbName: test
+2025/05/14 22:39:51 Created database: test
+2025/05/14 22:39:55 userDb is called
+2025/05/14 22:39:55 Broadcasted query to 0 slaves: USE test; USE test
+2025/05/14 22:39:58 Received tbName: t
+2025/05/14 22:39:58 Created tabke: t
+2025/05/14 22:39:58 Broadcasted query to 0 slaves: USE test; create table if not exists t(id int auto_increment primary key)
+2025/05/14 22:40:52 Broadcasted query to 0 slaves: USE test; ALTER TABLE t ADD COLUMN name VARCHAR(87) not null
+2025/05/14 22:42:38 Login successful
+2025/05/14 22:42:38 Started Master TCP server at 2025-05-14 22:42:38.8283872 -0700 PDT m=+51.002096901
+2025/05/14 22:42:47 userDb is called
+2025/05/14 22:42:47 Broadcasted query to 0 slaves: USE test; USE test
+2025/05/14 22:43:51 New slave connected: 192.168.135.132:59676
+2025/05/14 22:43:51 Starting synchronization for new slave: 192.168.135.132:59676
+2025/05/14 22:43:51 Found 1 tables to sync for slave 192.168.135.132:59676
+2025/05/14 22:43:51 Table t has no data to sync
+2025/05/14 22:43:51 Completed synchronization for slave: 192.168.135.132:59676
+2025/05/14 22:45:39 Broadcasted query to 1 slaves: USE test; INSERT INTO t (id, name) VALUES ('4', 'Aya Sabry')
+2025/05/14 22:45:39 Added new row to table t
+2025/05/14 22:45:42 New slave connected: 192.168.135.102:8333
+2025/05/14 22:45:42 Starting synchronization for new slave: 192.168.135.102:8333
+2025/05/14 22:45:42 Found 1 tables to sync for slave 192.168.135.102:8333
+2025/05/14 22:45:42 Syncing 1 rows from table t
+2025/05/14 22:45:42 Synced 1 rows for table t
+2025/05/14 22:45:42 Completed synchronization for slave: 192.168.135.102:8333
+2025/05/14 22:47:02 Received query from 192.168.135.102:8333: isert into name values("rania");
+2025/05/14 22:47:02 Execution error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isert into name values("rania")' at line 1
+2025/05/14 22:47:13 Received query from 192.168.135.102:8333: insert into name values("rania");
+2025/05/14 22:47:13 Execution error: Error 1146 (42S02): Table 'test.name' doesn't exist
+2025/05/14 22:47:43 Received query from 192.168.135.102:8333: insert into t name values("rania");
+2025/05/14 22:47:43 Execution error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'name values("rania")' at line 1
+2025/05/14 22:48:10 Received query from 192.168.135.102:8333: insert into t (name) values("rania");
+2025/05/14 22:48:10 Executed successfully for 192.168.135.102:8333. Rows: 1, LastID: 5
+2025/05/14 22:48:10 Broadcasted query to other slaves: USE test; insert into t (name) values("rania");
+2025/05/14 22:49:22 Received query from 192.168.135.132:59676: insert into t  (name) values ('marwa');
+2025/05/14 22:49:22 Executed successfully for 192.168.135.132:59676. Rows: 1, LastID: 6
+2025/05/14 22:49:22 Broadcasted query to other slaves: USE test; insert into t  (name) values ('marwa');
+2025/05/14 22:53:54 Login successful
+2025/05/14 22:53:54 Started Master TCP server at 2025-05-14 22:53:54.9027551 -0700 PDT m=+25.109760801
+2025/05/14 22:54:16 Received dbName: student
+2025/05/14 22:54:16 Created database: student
+2025/05/14 22:56:24 Login successful
+2025/05/14 22:56:24 Started Master TCP server at 2025-05-14 22:56:24.3377534 -0700 PDT m=+43.459331101
+2025/05/14 22:56:36 New slave connected: 192.168.135.132:62724
+2025/05/14 22:56:36 Starting synchronization for new slave: 192.168.135.132:62724
+2025/05/14 22:56:36 No database selected, skipping sync for slave: 192.168.135.132:62724
+2025/05/14 22:56:44 userDb is called
+2025/05/14 22:56:44 Broadcasted query to 1 slaves: USE student; USE student
+2025/05/14 22:56:55 Received tbName: std
+2025/05/14 22:56:55 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'std(id int auto_increment primary key)' at line 1
+2025/05/14 22:57:06 Received tbName: std
+2025/05/14 22:57:06 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'std(id int auto_increment primary key)' at line 1
+2025/05/14 22:57:11 Received tbName: std
+2025/05/14 22:57:11 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'std(id int auto_increment primary key)' at line 1
+2025/05/14 22:57:17 userDb is called
+2025/05/14 22:57:17 Broadcasted query to 1 slaves: USE student; USE student
+2025/05/14 22:57:24 Received tbName: std
+2025/05/14 22:57:24 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'std(id int auto_increment primary key)' at line 1
+2025/05/14 22:57:47 Received dbName: student2
+2025/05/14 22:57:47 Created database: student2
+2025/05/14 22:57:50 userDb is called
+2025/05/14 22:57:50 Broadcasted query to 1 slaves: USE student2; USE student2
+2025/05/14 22:57:54 Received tbName: std
+2025/05/14 22:57:54 Error creating table: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'std(id int auto_increment primary key)' at line 1
+2025/05/14 22:58:35 Connection closed or read error from 192.168.135.132:62724 : read tcp 192.168.135.108:9000->192.168.135.132:62724: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/14 22:58:35 Slave disconnected: 192.168.135.132:62724

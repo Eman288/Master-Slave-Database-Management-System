@@ -1,0 +1,169 @@
+2025/05/05 11:59:49 Connected to master at 2025-05-05 11:59:49.9506595 +0300 EEST m=+29.628307201
+2025/05/05 12:01:42 Sending query: select * from customers
+
+2025/05/05 12:01:43 Received response: Query executed successfully
+2025/05/05 13:02:32 Connected to master at 2025-05-05 13:02:32.4299887 +0300 EEST m=+0.310833401
+2025/05/05 13:03:23 Sending query: insert into customers(name, balance) values('Eman', 300.6);
+
+2025/05/05 13:03:24 Received response: Query executed successfully
+2025/05/05 14:09:45 Connection error: dial tcp 192.168.188.239:9000: connectex: A socket operation was attempted to an unreachable network.
+2025/05/05 14:10:10 Connection error: dial tcp 192.168.188.239:9000: connectex: A socket operation was attempted to an unreachable network.
+2025/05/05 14:11:00 Connected to master at 2025-05-05 14:11:00.6076781 +0300 EEST m=+0.253450201
+2025/05/05 14:12:15 Sending query: insert into customers(name, balance) values('Radwa', 345)
+
+2025/05/05 14:12:58 Received response: 
+2025/05/05 14:17:11 Connection error: dial tcp 192.168.188.239:9000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2025/05/05 14:18:12 Connected to master at 2025-05-05 14:18:12.5151344 +0300 EEST m=+0.218664901
+2025/05/05 14:18:56 Sending query: insert into customerts(name, balance) values ('Rania', 58832)
+
+2025/05/05 14:18:56 Received response: Error: Error 1146 (42S02): Table 'batman.customerts' doesn't exist
+2025/05/05 14:19:12 Connected to master at 2025-05-05 14:19:12.5156516 +0300 EEST m=+0.077537501
+2025/05/05 14:19:50 Sending query: insert into customers(name, balance) values ('Rania', 106436)
+
+2025/05/05 14:19:51 Received response: Query executed successfully
+2025/05/05 14:20:19 Connected to master at 2025-05-05 14:20:19.178115 +0300 EEST m=+0.189942701
+2025/05/05 14:20:40 Sending query: insert into customers(name, balance) values ('Batool', -784)
+
+2025/05/05 14:20:40 Received response: Query executed successfully
+2025/05/05 14:21:06 Connected to master at 2025-05-05 14:21:06.9444352 +0300 EEST m=+0.047975401
+2025/05/05 14:21:33 Sending query: update customers set balance = -34567 where id = 2
+
+2025/05/05 14:21:33 Received response: Query executed successfully
+2025/05/05 14:22:00 Connected to master at 2025-05-05 14:22:00.411259 +0300 EEST m=+0.107344101
+2025/05/05 14:22:30 Sending query: delete customer where id =2
+
+2025/05/05 14:22:30 Received response: Error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id =2' at line 1
+2025/05/05 14:22:39 Connected to master at 2025-05-05 14:22:39.233775 +0300 EEST m=+0.053304501
+2025/05/05 14:23:00 Sending query: delete from customers where id =2
+
+2025/05/05 14:23:00 Received response: Query executed successfully
+2025/05/05 14:23:15 Connected to master at 2025-05-05 14:23:15.2609416 +0300 EEST m=+0.140091901
+2025/05/05 14:23:41 Sending query: select * from customers 
+
+2025/05/05 14:23:41 Received response: Query executed successfully
+2025/05/05 14:25:38 Connected to master at 2025-05-05 14:25:38.7879444 +0300 EEST m=+0.219713701
+2025/05/05 14:26:20 Sending query: insert into customers values ("manar", 10000)
+
+2025/05/05 14:26:20 Received response: Error: Error 1136 (21S01): Column count doesn't match value count at row 1
+2025/05/05 14:26:29 Connected to master at 2025-05-05 14:26:29.9482036 +0300 EEST m=+0.092657701
+2025/05/05 14:27:07 Sending query: insert into cusromers(name, balance) values('manar', 100004)
+
+2025/05/05 14:27:07 Received response: Error: Error 1146 (42S02): Table 'batman.cusromers' doesn't exist
+2025/05/05 14:27:15 Connected to master at 2025-05-05 14:27:15.5588598 +0300 EEST m=+0.118290901
+2025/05/05 14:27:42 Sending query: insert into customers (name, balance) values('manar' , 122222)
+
+2025/05/05 14:27:42 Received response: Query executed successfully
+2025/05/14 22:17:00 Slave system started at 2025-05-14 22:17:00.2893541 -0700 PDT m=+0.004079501
+2025/05/14 22:17:13 Checked/Created database star
+2025/05/14 22:18:44 Connected to master at 2025-05-14 22:18:44.9377258 -0700 PDT m=+104.652451201
+2025/05/14 22:18:44 Received query from master: CREATE DATABASE IF NOT EXISTS koko
+2025/05/14 22:18:44 Executed master's query successfully. Rows affected: 1
+2025/05/14 22:18:44 Received query from master: USE koko
+2025/05/14 22:18:44 Executed master's query successfully. Rows affected: 0
+2025/05/14 22:18:44 Received response from master: Connected to master successfully
+2025/05/14 22:18:44 Received response from master: Database sync completed successfully
+2025/05/14 22:59:25 Slave system started at 2025-05-14 22:59:25.8622379 -0700 PDT m=+0.003357301
+2025/05/14 22:59:46 Checked/Created database student3
+2025/05/14 23:00:05 Connected to master at 2025-05-14 23:00:05.278449 -0700 PDT m=+39.419568401
+2025/05/14 23:00:05 Received query from master: CREATE DATABASE IF NOT EXISTS student3
+2025/05/14 23:00:05 Executed master's query successfully. Rows affected: 1
+2025/05/14 23:00:05 Received response from master: Connected to master successfully
+2025/05/14 23:00:05 Received query from master: USE student3
+2025/05/14 23:00:05 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:00:05 Received response from master: Database sync completed successfully
+2025/05/14 23:00:45 Received query from master: USE koko
+2025/05/14 23:00:45 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:00:45 Received query from master: USE koko
+2025/05/14 23:00:45 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:00:56 Received query from master: USE koko
+2025/05/14 23:00:56 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:00:56 Received query from master: DELETE FROM user WHERE id = 1
+2025/05/14 23:00:56 Execution error: Error 1146 (42S02): Table 'koko.user' doesn't exist
+2025/05/14 23:02:14 Received query from master: USE koko
+2025/05/14 23:02:14 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:02:14 Received query from master: ALTER TABLE user ADD COLUMN age int not null
+2025/05/14 23:02:14 Execution error: Error 1146 (42S02): Table 'koko.user' doesn't exist
+2025/05/14 23:02:55 Slave system started at 2025-05-14 23:02:55.4884163 -0700 PDT m=+0.004101801
+2025/05/14 23:03:11 Checked/Created database koko
+2025/05/14 23:03:38 Connected to master at 2025-05-14 23:03:38.3058013 -0700 PDT m=+42.821486801
+2025/05/14 23:03:38 Received query from master: CREATE DATABASE IF NOT EXISTS koko
+2025/05/14 23:03:38 Executed master's query successfully. Rows affected: 1
+2025/05/14 23:03:38 Received query from master: USE koko
+2025/05/14 23:03:38 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:03:38 Received response from master: Connected to master successfully
+2025/05/14 23:03:38 Received query from master: CREATE TABLE `user` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(225) NOT NULL,
+  `age` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+2025/05/14 23:03:38 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:03:38 Received response from master: Database sync completed successfully
+2025/05/14 23:04:26 Received query from master: USE koko
+2025/05/14 23:04:26 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:04:26 Received query from master: INSERT INTO user (id, name, age) VALUES ('1', 'marwa', '12')
+2025/05/14 23:04:26 Executed master's query successfully. Rows affected: 1
+2025/05/14 23:04:43 Executing query locally first: select * from user;
+2025/05/14 23:04:43 Sending query to master: select * from user;
+2025/05/14 23:04:43 Received response from master: Query executed successfully
+2025/05/14 23:04:48 Timeout waiting for master response
+2025/05/14 23:05:15 Executing query locally first: insert into user (name,age) values ('koko',123);
+2025/05/14 23:05:15 Executed query locally. Rows affected: 1, LastID: 2
+2025/05/14 23:05:15 Sending query to master: insert into user (name,age) values ('koko',123);
+2025/05/14 23:05:15 Received response from master: Query executed successfully
+2025/05/14 23:05:20 Timeout waiting for master response
+2025/05/14 23:05:51 Executing query locally first: update user set name ='mom' where id=1;
+2025/05/14 23:05:51 Executed query locally. Rows affected: 1, LastID: 0
+2025/05/14 23:05:51 Sending query to master: update user set name ='mom' where id=1;
+2025/05/14 23:05:51 Received response from master: Query executed successfully
+2025/05/14 23:05:56 Timeout waiting for master response
+2025/05/14 23:06:02 Received query from master: USE koko
+2025/05/14 23:06:02 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:06:02 Received query from master: DELETE FROM user WHERE id = 1
+2025/05/14 23:06:02 Executed master's query successfully. Rows affected: 1
+2025/05/14 23:06:12 Executing query locally first: select * from user;
+2025/05/14 23:06:12 Sending query to master: select * from user;
+2025/05/14 23:06:12 Received response from master: Query executed successfully
+2025/05/14 23:06:17 Timeout waiting for master response
+2025/05/14 23:06:31 Received query from master: USE koko
+2025/05/14 23:06:31 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:06:31 Received query from master: create table if not exists ms(id int auto_increment primary key)
+2025/05/14 23:06:31 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:06:46 Received query from master: USE koko
+2025/05/14 23:06:46 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:06:46 Received query from master: create table if not exists gg(id int auto_increment primary key)
+2025/05/14 23:06:46 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:07:14 Received query from master: USE pot
+2025/05/14 23:07:14 Execution error: Error 1049 (42000): Unknown database 'pot'
+2025/05/14 23:07:14 Received query from master: USE pot
+2025/05/14 23:07:14 Execution error: Error 1049 (42000): Unknown database 'pot'
+2025/05/14 23:08:14 Received query from master: USE lol
+2025/05/14 23:08:14 Execution error: Error 1049 (42000): Unknown database 'lol'
+2025/05/14 23:08:14 Received query from master: create table if not exists user(id int auto_increment primary key)
+2025/05/14 23:08:14 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:08:22 Received query from master: USE lol
+2025/05/14 23:08:22 Execution error: Error 1049 (42000): Unknown database 'lol'
+2025/05/14 23:08:22 Received query from master: USE lol
+2025/05/14 23:08:22 Execution error: Error 1049 (42000): Unknown database 'lol'
+2025/05/14 23:08:34 Slave system started at 2025-05-14 23:08:34.6164858 -0700 PDT m=+0.003323301
+2025/05/14 23:09:12 Slave system started at 2025-05-14 23:09:12.1820228 -0700 PDT m=+0.003183701
+2025/05/14 23:09:21 Checked/Created database pot
+2025/05/14 23:09:36 Connected to master at 2025-05-14 23:09:36.2709919 -0700 PDT m=+24.092152801
+2025/05/14 23:09:36 Received query from master: CREATE DATABASE IF NOT EXISTS manar
+2025/05/14 23:09:36 Executed master's query successfully. Rows affected: 1
+2025/05/14 23:09:36 Received query from master: USE manar
+2025/05/14 23:09:36 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:09:36 Received response from master: Connected to master successfully
+2025/05/14 23:09:36 Received response from master: Database sync completed successfully
+2025/05/14 23:09:52 Received query from master: USE manar
+2025/05/14 23:09:52 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:09:52 Received query from master: USE manar
+2025/05/14 23:09:52 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:10:02 Received query from master: USE manar
+2025/05/14 23:10:02 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:10:02 Received query from master: create table if not exists ma(id int auto_increment primary key)
+2025/05/14 23:10:02 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:10:08 Received query from master: USE manar
+2025/05/14 23:10:08 Executed master's query successfully. Rows affected: 0
+2025/05/14 23:10:08 Received query from master: drop table ma
+2025/05/14 23:10:08 Executed master's query successfully. Rows affected: 0

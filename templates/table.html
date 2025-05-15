@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <link rel="stylesheet" href="../static/table.css">
+</head>
+<body data-colnum="{{.RowNum}}">
+    <h2>{{.Table}}</h2>
+    <a onclick="addNewRowForm()">Insert Data</a>
+    <a onclick="addNewColumnForm()">Add New Column</a>
+    <table>
+        <a href="/home">Back to Home</a>
+        <thead>
+            <tr>
+                {{range .Columns}}
+                    <th>{{.}}</th>
+                {{end}}
+                <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+<tbody>
+    {{if .Rows}}
+        {{range $row := .Rows}}
+        <tr>
+            {{range $cell := $row}}
+                <td>{{$cell}}</td>
+            {{end}}
+
+            {{ $id := index $row 0 }}
+            <td><a href="#" onclick="editRowForm(this)">Edit</a></td>
+            <td><a href="/deleteRow?rowId={{$id}}">✖</a></td>
+        </tr>
+        {{end}}
+    {{else}}
+        <tr>
+            <td colspan="{{.ColNum}}">No rows found</td>
+        </tr>
+    {{end}}
+</tbody>
+
+    </table>
+
+    <form id="newColForm" action="/addCol" method="post">
+        <span onclick="closeNewColForm()">✖</span>
+        <div>
+            <label for="colName">Column Name</label>
+            <input type="text" name="colName" id="colName">
+        </div>
+        <div>
+            <select name="colType" id="colType" onchange="toggleBoxValue()">
+                <option value="int">Int</option>
+                <option value="float">Float</option>
+                <option value="varchar">VarChar</option>
+                <option value="date">Date</option>
+                <option value="time">Time</option>
+                <option value="bool">Bool</option>
+            </select>
+        </div>
+        <input type="number" id="boxValue" value="0" name="boxValue" style="display: none;" placeholder="VARCHAR length">
+        <div>
+            <label for="colNull">
+                Can Be Null?
+            </label>
+            <input type="checkbox" name="colNull">
+        </div>
+        <button type="submit">Create</button>
+    </form>
+
+    <form id="newRowForm" action="/addRow" method="post">
+        <span onclick="closeNewRowForm()">✖</span>
+        <input type="hidden" name="tableName" value="{{.Table}}">
+        {{range $index, $col := .Columns}}
+            <div>
+                <label for="{{$col}}">{{$col}}</label>
+                {{/* Infer input type from ColTypes */}}
+                {{ $type := index $.ColTypes $index }}
+                {{if (hasPrefix $type "int")}}
+                    <input type="number" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "varchar")}}
+                    <input type="text" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "float")}}
+                    <input type="number" step="any" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "date")}}
+                    <input type="date" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "time")}}
+                    <input type="time" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "bool")}}
+                    <input type="checkbox" name="{{$col}}" id="{{$col}}">
+                {{else}}
+                    <input type="text" name="{{$col}}" id="{{$col}}">
+                {{end}}
+            </div>
+        {{end}}
+        <button type="submit">Create</button>
+    </form>
+    
+
+
+<form id="editRowForm" action="/editRow" method="post" style="display:none">
+    <span onclick="closeEditRowForm()">✖</span>
+
+    <input type="hidden" name="tableName" value="{{.Table}}">
+    <input type="hidden" name="id" id="editRowId">
+    {{if .Rows}}
+    {{with index .Rows 0}}
+        {{range $colIndex, $col := $.Columns}}
+            {{ $type := index $.ColTypes $colIndex }}
+            <div>
+                <label for="{{$col}}">{{$col}}</label>
+                {{if (hasPrefix $type "int")}}
+                    <input type="number" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "varchar")}}
+                    <input type="text" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "float")}}
+                    <input type="number" step="any" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "date")}}
+                    <input type="date" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "time")}}
+                    <input type="time" name="{{$col}}" id="{{$col}}">
+                {{else if (hasPrefix $type "bool")}}
+                    <input type="checkbox" name="{{$col}}" id="{{$col}}">
+                {{else}}
+                    <input type="text" name="{{$col}}" id="{{$col}}">
+                {{end}}
+            </div>
+        {{end}}
+    {{end}}
+    {{end}}
+
+    <button type="submit">Edit</button>
+</form>
+
+
+
+
+
+
+    <script>
+
+        function editRowForm(link) {
+    // الوصول للصف الكامل (tr)
+    const row = link.closest("tr");
+
+    // جلب كل الأعمدة (td)
+    const cells = row.querySelectorAll("td");
+
+    // جلب أسماء الأعمدة من الفورم نفسه
+    const inputs = document.querySelectorAll("#editRowForm input[name]");
+
+    // جلب اسم العمود من الـ name وتعبئة القيمة من الخلية المطابقة
+    inputs.forEach((input, index) => {
+        if (input.name === "tableName") return; // تخطي tableName
+        if (input.name === "id") {
+            input.value = cells[0].textContent.trim(); // بافتراض أن أول عمود هو الـ ID
+        } else {
+            const value = cells[index].textContent.trim();
+            if (input.type === "checkbox") {
+                input.checked = value === "1";
+            } else {
+                input.value = value;
+            }
+        }
+    });
+
+    // عرض النموذج
+    document.getElementById("editRowForm").style.display = "block";
+}
+
+        // add col forms
+function addNewColumnForm() {
+    const rowNum = document.body.dataset.colnum;
+    console.log(rowNum)
+
+    if (rowNum != 0) {
+        alert("You can't create more columns since there is already data inserted!!")
+    } 
+    else {
+        closeAllForms();  // Close other forms before showing the new column form
+        const form = document.getElementById("newColForm");
+        form.style.display = "block";
+    }
+}
+
+// add row forms
+function addNewRowForm() {
+    closeAllForms();  // Close other forms before showing the new row form
+    const form = document.getElementById("newRowForm");
+    form.style.display = "block";
+}
+
+function editRowForm(link) {
+    const row = link.closest("tr");
+    const cells = row.querySelectorAll("td");
+    const inputs = document.querySelectorAll("#editRowForm input[name]");
+
+    let cellIndex = 0; // to map cells only to relevant inputs
+
+    inputs.forEach(input => {
+        if (input.name === "tableName") return; // skip hidden tableName
+
+        if (input.name === "id") {
+            input.value = cells[0].textContent.trim(); // assume ID is first column
+        } else {
+            // Avoid overflow if inputs > cells
+            if (cellIndex >= cells.length) return;
+
+            const value = cells[cellIndex].textContent.trim();
+
+            if (input.type === "checkbox") {
+                input.checked = value === "1";
+            } else {
+                input.value = value;
+            }
+            cellIndex++;
+        }
+    });
+    console.log("ID value:", document.getElementById("editRowId").value);
+
+    document.getElementById("editRowForm").style.display = "flex";
+}
+
+
+function closeAllForms() {
+    // Hide all forms
+    const forms = document.querySelectorAll('form');
+    forms.forEach(form => {
+        form.style.display = 'none';
+    });
+}
+
+function closeNewColForm() {
+    const form = document.getElementById("newColForm");
+    form.style.display = "none";
+}
+
+function closeNewRowForm() {
+    const form = document.getElementById("newRowForm");
+    form.style.display = "none";
+}
+
+function closeEditRowForm() {
+    const form = document.getElementById("editRowForm");
+    form.style.display = "none";
+}
+
+
+        function toggleBoxValue() {
+        const colType = document.getElementById("colType").value;
+        const box = document.getElementById("boxValue");
+
+        if (colType === "varchar") {
+            box.style.display = "inline";
+        } else {
+            box.style.display = "none";
+            box.value = 0; // reset if not varchar
+        }
+    }
+    </script>
+</body>
+</html>

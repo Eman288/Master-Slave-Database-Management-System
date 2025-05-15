@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Database List</title>
+    <link rel="stylesheet" href="../static/home.css">
+</head>
+<body>
+    <aside>
+        <h1>Available Databases</h1>
+
+        <form id="dbForm" action="/createDb" method="post">
+            <input type="hidden" name="dbName" id="dbName">
+            <button type="button" onclick="getDbName()">Create New Database</button>
+        </form>
+    
+        <ul>
+            {{range .Databases}}
+                <li><a href="/useDb?dbName={{.}}">{{.}}</a> <a href="/deleteDb?dbName={{.}}">✖</a></li>
+            {{end}}
+        </ul>
+    </aside>
+    <div class="databaseContent">
+        <h2>Tables in Database: {{.DbDatabase}}</h2>
+        <form id="tbForm" action="/createTable" method="post">
+            <div>
+                <input type="text" name="tbName" id="tbName" hidden>
+                <button type="button" onclick="getTbName()">Create New Table</button>
+            </div>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{if .Tables}}
+                    {{range $i, $t := .Tables}}
+                    <tr>
+                        <td>{{$i}}</td>
+                        <td><a href="/displayTable?tableName={{$t}}">{{$t}}</a></td>
+                        <td><a href="/deleteTb?tableName={{$t}}">Drop</a></td>
+                    </tr>
+                    {{end}}
+                {{else}}
+                    <tr>
+                        <td colspan="3">No tables found or no database selected.</td>
+                    </tr>
+                {{end}}
+            </tbody>
+        </table>
+    </div>
+    
+
+    <script>
+    function getDbName() {
+        const dbName = prompt("Enter the new database name:");
+        if (dbName && dbName.trim() !== "") {
+            document.getElementById("dbName").value = dbName.trim();
+            document.getElementById("dbForm").submit();
+        } else {
+            alert("Database name cannot be empty.");
+        }
+    }
+
+    function getTbName() {
+        const tbName = prompt("Enter the new table name:");
+        if (tbName && tbName.trim() !== "") {
+            document.getElementById("tbName").value = tbName.trim();
+            document.getElementById("tbForm").submit();
+        } else {
+            alert("Table name cannot be empty.");
+        }
+    }
+    </script>
+</body>
+</html>

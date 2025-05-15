@@ -1,0 +1,238 @@
+/* === Global Styles === */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #fce4ec, #f8bbd0);
+    padding: 40px;
+    animation: fadeIn 0.8s ease-in;
+    color: #6a1b9a;
+    position: relative;
+}
+
+/* === Page Header === */
+h2 {
+    text-align: center;
+    color: #880e4f;
+    font-size: 2em;
+    margin-bottom: 30px;
+    animation: slideDown 0.5s ease-out;
+}
+
+input[name="Id"] {
+        display: none;
+    }
+
+    /* Hide the entire div containing the Id input */
+#editRowForm div:has(> input#id),
+#editRowForm div:has(> input[name="id"]),
+#newRowForm div:has(> input#id),
+#newRowForm div:has(> input[name="id"]) {
+    display: none !important;
+}
+
+/* === Buttons and Links === */
+form, a {
+    display: inline-block;
+    margin: 10px;
+}
+
+button, a[onclick] {
+    padding: 10px 20px;
+    background-color: #ce93d8;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover, a[onclick]:hover {
+    background-color: #ba68c8;
+    transform: translateY(-2px);
+}
+
+a[href="/home"] {
+    display: block;
+    margin-bottom: 20px;
+    color: #6a1b9a;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* === Table Styles === */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    animation: fadeInUp 0.6s ease-out;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 14px 18px;
+    text-align: left;
+    border-bottom: 1px solid #f8bbd0;
+}
+
+th {
+    background-color: #f48fb1;
+    color: white;
+    font-weight: bold;
+}
+
+tbody tr:hover {
+    background-color: #fce4ec;
+}
+
+td:last-child,
+td:nth-last-child(2) {
+    color: #d81b60;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+
+td:last-child:hover,
+td:nth-last-child(2):hover {
+    text-decoration: underline;
+}
+
+/* === Popup Form Styles === */
+#newColForm, #newRowForm, #editRowForm {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    animation: popIn 0.4s ease-out;
+    min-width: 300px;
+}
+
+#newColForm span, #newRowForm span, #editRowForm span {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    color: #d81b60;
+    cursor: pointer;
+}
+
+#newColForm div, #newRowForm div, #editRowForm div {
+    margin-bottom: 15px;
+}
+
+#newColForm label, #newRowForm label, #editRowForm label {
+    display: block;
+    margin-bottom: 6px;
+    color: #6a1b9a;
+    font-weight: bold;
+}
+
+#newColForm input, #newRowForm input, #editRowForm,
+#newColForm select, #newRowForm select, #editRowForm, select{
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #f48fb1;
+    border-radius: 6px;
+    outline: none;
+    font-size: 1em;
+    transition: border-color 0.3s ease;
+}
+
+#newColForm input:focus, #newRowForm input:focus, #editRowForm input:focus,
+#newColForm select:focus, #newRowForm select:focus, #editRowForm select:focus {
+    border-color: #ce93d8;
+}
+
+#boxValue {
+    margin-top: 8px;
+}
+
+
+#editRowForm {
+    background: #f3e5f5;
+    border: 2px solid #ce93d8;
+    padding: 35px 45px;
+    width: 20%;
+    border-radius: 14px;
+    box-shadow: 0 10px 25px rgba(106, 27, 154, 0.2);
+    animation: popIn 0.4s ease-out;
+    transition: all 0.3s ease-in-out;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#editRowForm label {
+    color: #4a148c;
+    font-weight: 600;
+    font-size: 0.95em;
+}
+
+#editRowForm input, #editRowForm select {
+    background: #fce4ec;
+    border: 1px solid #ba68c8;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 1em;
+    transition: border 0.3s, background 0.3s;
+}
+
+#editRowForm input:focus, #editRowForm select:focus {
+    background: #fff;
+    border-color: #ab47bc;
+}
+
+#editRowForm button {
+    background-color: #ab47bc;
+    border-radius: 8px;
+    padding: 10px 22px;
+    font-size: 1em;
+}
+
+#editRowForm button:hover {
+    background-color: #9c27b0;
+    transform: scale(1.02);
+}
+
+#editRowForm span {
+    font-size: 24px;
+    color: #6a1b9a;
+}
+
+#editRowForm div {
+    margin-bottom: 18px;
+}
+
+
+/* === Animations === */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideDown {
+    from { transform: translateY(-20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes fadeInUp {
+    from { transform: translateY(20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes popIn {
+    from { transform: scale(0.8) translate(-50%, -50%); opacity: 0; }
+    to { transform: scale(1) translate(-50%, -50%); opacity: 1; }
+}

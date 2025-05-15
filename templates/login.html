@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/login.css">
+    <title>Welcome</title>
+</head>
+<body>
+    <form action="/login" method="post">
+        <div>
+            <label for="user">UserName</label>
+            <input type="text" id="user" name="user">
+        </div>
+        <div>
+            <label for="pasa">Password</label>
+            <input type="password" id="pass" name="pass">
+            <span onclick="switchPass()">👁</span>
+        </div>
+        <button type="submit">Login</button>
+    </form>
+    <script>
+        function switchPass() {
+            ele = document.getElementById("pass");
+            if (ele.type == "password")
+            {
+                ele.type = "text";
+            }
+            else {
+                ele.type = "password";
+            }
+        }
+    </script>
+</body>
+</html>
