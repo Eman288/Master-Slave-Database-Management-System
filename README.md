@@ -1,4 +1,4 @@
-[img](demo.png)
+![img](demo.png)
 # Master-Slave Database Management System
 
 A full-stack simulation of a **Master-Slave Database Architecture**, implemented in **Go (Golang)** with a web frontend using **Go HTML templates** and **MySQL** as the backend database. This project demonstrates how distributed systems manage read/write operations across a master and one or more slave databases.
@@ -17,9 +17,8 @@ A full-stack simulation of a **Master-Slave Database Architecture**, implemented
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Acknowledgments](#Acknowledgments)
 
 ---
 
@@ -172,20 +171,14 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## Contact
+## 🙌 Acknowledgments
 
-**Eman**
-GitHub: [@Eman288](https://github.com/Eman288)
-**Eman**
-GitHub: [@Eman288](https://github.com/Eman288)
-**Eman**
-GitHub: [@Eman288](https://github.com/Eman288)
-**Eman**
-GitHub: [@Eman288](https://github.com/Eman288)
-**Eman**
-GitHub: [@Eman288](https://github.com/Eman288)
-**Eman**
-GitHub: [@Eman288](https://github.com/Eman288)
+* Eman Tamam: [GitHub](https://github.com/Eman288)
+* Aya Sabry: [GitHub](https://github.com/ayasabry36)
+* Batoul Essam: [GitHub](https://github.com/Batoul810)
+* Manar Adell: [GitHub](https://github.com/Manaradell)
+* Marwa Mahmoud: [GitHub](https://github.com/MarwaMahmoud44)
+* Rania Mahmoud: [GitHub](https://github.com/RaniaMahmoud1111)
 
 Feel free to reach out for feedback, questions, or collaboration ideas!
 
